@@ -2,7 +2,7 @@ from therobotcooperative/turtlebot3-ros2:foxy
 
 #copy needed files into container
 COPY performance /performance
-COPY .gazebo /root/.gazebo
+COPY gazebo /root/.gazebo
 
 #install byobu and python libraries
 RUN apt-get update \
