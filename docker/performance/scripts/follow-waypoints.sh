@@ -1,3 +1,4 @@
+#sends an action goal to the TurtleBot to navigate a set of waypoints. 
 ros2 action send_goal /FollowWaypoints nav2_msgs/action/FollowWaypoints "
 poses:
   - pose:
