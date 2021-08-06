@@ -1,0 +1,4804 @@
+
+unsecure500-2000
+Navigation time: 37.1165348 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.01%
+Average x localization error: 0.0010158555216933486
+Average y localization error: 0.00019456324199330582
+Final distance from goal: 0.2306163120804502 meters
+Total change in yaw:  411.991 degrees
+Change in yaw per second: 11.100 deg/s
+
+unsecure500-2000-1
+Navigation time: 35.3219558 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 80.36%
+Average x localization error: 0.0010043627633903574
+Average y localization error: 0.00024080792777133838
+Final distance from goal: 0.23555056270803498 meters
+Total change in yaw:  368.756 degrees
+Change in yaw per second: 10.440 deg/s
+
+unsecure500-2000-2
+Navigation time: 36.1691898 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 90.08%
+Average x localization error: 0.0009912776328854793
+Average y localization error: 0.0001904029477304777
+Final distance from goal: 0.28665508645851345 meters
+Total change in yaw:  374.485 degrees
+Change in yaw per second: 10.354 deg/s
+
+unsecure500-2000-3
+Navigation time: 27.8679707 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 42.22%
+Average x localization error: 0.0010360801273373698
+Average y localization error: 0.00020967313132751883
+Final distance from goal: 0.23910478225283782 meters
+Total change in yaw:  375.173 degrees
+Change in yaw per second: 13.463 deg/s
+
+unsecure500-2000-4
+Navigation time: 33.417076 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.20%
+Average x localization error: 0.0010883851284691235
+Average y localization error: 0.00023696096108063113
+Final distance from goal: 0.25043107624046435 meters
+Total change in yaw:  374.027 degrees
+Change in yaw per second: 11.193 deg/s
+
+unsecure2500-4000
+Navigation time: 32.7165851 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.38%
+Average x localization error: 0.0009334504649670035
+Average y localization error: 0.00024072578442316543
+Final distance from goal: 0.24119993938916068 meters
+Total change in yaw:  380.226 degrees
+Change in yaw per second: 11.622 deg/s
+
+unsecure2500-4000-1
+Navigation time: 34.9345067 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.41%
+Average x localization error: 0.0009648263319127801
+Average y localization error: 0.0002614201015478339
+Final distance from goal: 0.23821139582607825 meters
+Total change in yaw:  375.751 degrees
+Change in yaw per second: 10.756 deg/s
+
+unsecure2500-4000-2
+Navigation time: 15.2017148 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.43%
+Average x localization error: 0.0018232651565814487
+Average y localization error: 0.00023963341712629046
+Final distance from goal: 1.3437442977451588 meters
+Total change in yaw:  268.717 degrees
+Change in yaw per second: 17.677 deg/s
+
+unsecure2500-4000-3
+Navigation time: 32.5182107 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.93%
+Average x localization error: 0.0010203259743672038
+Average y localization error: 0.00023515941053952954
+Final distance from goal: 0.23066915183282619 meters
+Total change in yaw:  389.657 degrees
+Change in yaw per second: 11.983 deg/s
+
+unsecure2500-4000-4
+Navigation time: 21.8199649 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.38%
+Average x localization error: 0.0015363102473382165
+Average y localization error: 0.00022211999703755506
+Final distance from goal: 1.153367374033613 meters
+Total change in yaw:  331.571 degrees
+Change in yaw per second: 15.196 deg/s
+
+unsecure4500-6000
+Navigation time: 38.9319968 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 90.58%
+Average x localization error: 0.0010308040757220256
+Average y localization error: 0.00025783101768193353
+Final distance from goal: 0.2460319213433504 meters
+Total change in yaw:  378.954 degrees
+Change in yaw per second: 9.734 deg/s
+
+unsecure4500-6000-1
+Navigation time: 12.2683185 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 80.23%
+Average x localization error: 0.0021125520453630434
+Average y localization error: 0.0002739989247584249
+Final distance from goal: 2.178756269672748 meters
+Total change in yaw:  168.507 degrees
+Change in yaw per second: 13.735 deg/s
+
+unsecure4500-6000-2
+Navigation time: 32.0177026 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.34%
+Average x localization error: 0.001014024960904997
+Average y localization error: 0.00025855703196694794
+Final distance from goal: 0.24380849845573502 meters
+Total change in yaw:  387.967 degrees
+Change in yaw per second: 12.117 deg/s
+
+unsecure4500-6000-3
+Navigation time: 37.1244168 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.40%
+Average x localization error: 0.0010477498830176513
+Average y localization error: 0.00022186510323979526
+Final distance from goal: 0.23319820879701764 meters
+Total change in yaw:  386.769 degrees
+Change in yaw per second: 10.418 deg/s
+
+unsecure4500-6000-4
+Navigation time: 35.4676454 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.09%
+Average x localization error: 0.0010101584179770403
+Average y localization error: 0.00023723043866668276
+Final distance from goal: 0.23619771389308977 meters
+Total change in yaw:  383.131 degrees
+Change in yaw per second: 10.802 deg/s
+
+unsecure6500-8000
+Navigation time: 21.7027319 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.97%
+Average x localization error: 0.0012790477665026332
+Average y localization error: 0.00022021828888588158
+Final distance from goal: 1.1542349691644678 meters
+Total change in yaw:  351.051 degrees
+Change in yaw per second: 16.175 deg/s
+
+unsecure6500-8000-1
+Navigation time: 34.6180744 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.91%
+Average x localization error: 0.000985984258764157
+Average y localization error: 0.00024043742369738466
+Final distance from goal: 0.23944993057400663 meters
+Total change in yaw:  388.855 degrees
+Change in yaw per second: 11.233 deg/s
+
+unsecure6500-8000-2
+Navigation time: 30.7668594 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.72%
+Average x localization error: 0.0010494334238249341
+Average y localization error: 0.00023145646779553224
+Final distance from goal: 0.263185738473014 meters
+Total change in yaw:  370.761 degrees
+Change in yaw per second: 12.051 deg/s
+
+unsecure6500-8000-4
+Navigation time: 28.2149356 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 44.06%
+Average x localization error: 0.0010699273463864484
+Average y localization error: 0.00021695881081722362
+Final distance from goal: 0.2490489929467823 meters
+Total change in yaw:  377.591 degrees
+Change in yaw per second: 13.383 deg/s
+
+unsecure8500-10000
+Navigation time: 26.4694601 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.76%
+Average x localization error: 0.00114122613248088
+Average y localization error: 0.00025574709666876437
+Final distance from goal: 0.9165775047061676 meters
+Total change in yaw:  372.709 degrees
+Change in yaw per second: 14.081 deg/s
+
+unsecure8500-10000-1
+Navigation time: 29.167297 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 44.52%
+Average x localization error: 0.0009867434497838026
+Average y localization error: 0.0002508393759449576
+Final distance from goal: 0.2544776323211075 meters
+Total change in yaw:  379.607 degrees
+Change in yaw per second: 13.015 deg/s
+
+unsecure8500-10000-2
+Navigation time: 30.8670651 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 54.22%
+Average x localization error: 0.000953300864332265
+Average y localization error: 0.00020298631799198357
+Final distance from goal: 0.2559018982422783 meters
+Total change in yaw:  387.904 degrees
+Change in yaw per second: 12.567 deg/s
+
+unsecure8500-10000-3
+Navigation time: 35.2674227 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.32%
+Average x localization error: 0.0009174919269324005
+Average y localization error: 0.00024434708607952606
+Final distance from goal: 0.2423450069250548 meters
+Total change in yaw:  390.528 degrees
+Change in yaw per second: 11.073 deg/s
+
+unsecure8500-10000-4
+Navigation time: 34.1195742 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.88%
+Average x localization error: 0.0009328721676831967
+Average y localization error: 0.00021131759902844315
+Final distance from goal: 0.23980581399488535 meters
+Total change in yaw:  386.265 degrees
+Change in yaw per second: 11.321 deg/s
+
+unsecure10500-12000
+Navigation time: 36.0830481 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.96%
+Average x localization error: 0.0010078251415446228
+Average y localization error: 0.00022783311568780754
+Final distance from goal: 0.24154502989941298 meters
+Total change in yaw:  385.555 degrees
+Change in yaw per second: 10.685 deg/s
+
+unsecure10500-12000-1
+Navigation time: 35.9677996 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.91%
+Average x localization error: 0.0010421564559016955
+Average y localization error: 0.00024181789597518496
+Final distance from goal: 0.24435478094678215 meters
+Total change in yaw:  382.621 degrees
+Change in yaw per second: 10.638 deg/s
+
+unsecure10500-12000-2
+Navigation time: 29.368799 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 90.99%
+Average x localization error: 0.001214484941116038
+Average y localization error: 0.00021161116520314506
+Final distance from goal: 1.1443584418983261 meters
+Total change in yaw:  343.488 degrees
+Change in yaw per second: 11.696 deg/s
+
+unsecure10500-12000-3
+Navigation time: 32.5169704 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.69%
+Average x localization error: 0.0011505116310743901
+Average y localization error: 0.00024289092958015607
+Final distance from goal: 0.257825214883003 meters
+Total change in yaw:  387.612 degrees
+Change in yaw per second: 11.920 deg/s
+
+unsecure10500-12000-4
+Navigation time: 35.1183646 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.39%
+Average x localization error: 0.0010352849524198563
+Average y localization error: 0.00026744862961513405
+Final distance from goal: 0.24274686874109652 meters
+Total change in yaw:  378.335 degrees
+Change in yaw per second: 10.773 deg/s
+
+unsecure12500-14000
+Navigation time: 34.6209381 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.33%
+Average x localization error: 0.00100242131834631
+Average y localization error: 0.0002392806486533919
+Final distance from goal: 0.25733895374373433 meters
+Total change in yaw:  385.790 degrees
+Change in yaw per second: 11.143 deg/s
+
+unsecure12500-14000-1
+Navigation time: 34.967807 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.84%
+Average x localization error: 0.0009504519950959618
+Average y localization error: 0.00022546291869752764
+Final distance from goal: 0.24218609884108402 meters
+Total change in yaw:  380.667 degrees
+Change in yaw per second: 10.886 deg/s
+
+unsecure12500-14000-2
+Navigation time: 33.0708399 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 59.90%
+Average x localization error: 0.001047475850826416
+Average y localization error: 0.00021452375900996655
+Final distance from goal: 0.25898898076178284 meters
+Total change in yaw:  376.978 degrees
+Change in yaw per second: 11.399 deg/s
+
+unsecure12500-14000-3
+Navigation time: 38.128547 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.27%
+Average x localization error: 0.0010299660559228505
+Average y localization error: 0.00021962996348244923
+Final distance from goal: 0.2399749314746558 meters
+Total change in yaw:  373.551 degrees
+Change in yaw per second: 9.797 deg/s
+
+unsecure12500-14000-4
+Navigation time: 33.1180983 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.62%
+Average x localization error: 0.0010022958805319595
+Average y localization error: 0.00023687554330413074
+Final distance from goal: 0.24181609091775155 meters
+Total change in yaw:  373.047 degrees
+Change in yaw per second: 11.264 deg/s
+
+unsecure14500-16000
+Navigation time: 31.9167879 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.07%
+Average x localization error: 0.0010211261784015865
+Average y localization error: 0.000244150580193624
+Final distance from goal: 0.26403794355568755 meters
+Total change in yaw:  377.447 degrees
+Change in yaw per second: 11.826 deg/s
+
+unsecure14500-16000-1
+Navigation time: 39.2205054 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 91.33%
+Average x localization error: 0.0010014487342926406
+Average y localization error: 0.000246471227396996
+Final distance from goal: 0.2595075260963492 meters
+Total change in yaw:  389.308 degrees
+Change in yaw per second: 9.926 deg/s
+
+unsecure14500-16000-2
+Navigation time: 38.3875472 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.17%
+Average x localization error: 0.0009715968124270314
+Average y localization error: 0.00023125284796518108
+Final distance from goal: 0.24524134276337028 meters
+Total change in yaw:  377.407 degrees
+Change in yaw per second: 9.832 deg/s
+
+unsecure14500-16000-3
+Navigation time: 31.168153 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 58.27%
+Average x localization error: 0.0009815091010126232
+Average y localization error: 0.0002024716406767755
+Final distance from goal: 0.2425740169294909 meters
+Total change in yaw:  377.298 degrees
+Change in yaw per second: 12.105 deg/s
+
+unsecure14500-16000-4
+Navigation time: 34.9897113 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.83%
+Average x localization error: 0.0009831657629038805
+Average y localization error: 0.00025643529396055854
+Final distance from goal: 0.24099280179294172 meters
+Total change in yaw:  384.684 degrees
+Change in yaw per second: 10.994 deg/s
+
+unsecure16500-18000
+Navigation time: 29.6171957 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.03%
+Average x localization error: 0.0009971303715909507
+Average y localization error: 0.00021370415280461163
+Final distance from goal: 0.24033523194663306 meters
+Total change in yaw:  384.810 degrees
+Change in yaw per second: 12.993 deg/s
+
+unsecure16500-18000-1
+Navigation time: 35.6165835 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 91.83%
+Average x localization error: 0.0009483703445877964
+Average y localization error: 0.00025955385124584116
+Final distance from goal: 0.25696879767833103 meters
+Total change in yaw:  388.712 degrees
+Change in yaw per second: 10.914 deg/s
+
+unsecure16500-18000-2
+Navigation time: 121.7642876 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.35%
+Average x localization error: nan
+Average y localization error: nan
+Final distance from goal: 2.546919459564996 meters
+Total change in yaw:  382.518 degrees
+Change in yaw per second: 3.141 deg/s
+
+unsecure16500-18000-3
+Navigation time: 28.2660135 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.67%
+Average x localization error: 0.0012935003320557839
+Average y localization error: 0.00022729561546901275
+Final distance from goal: 1.1433759900793292 meters
+Total change in yaw:  351.567 degrees
+Change in yaw per second: 12.438 deg/s
+
+unsecure18500-20000
+Navigation time: 31.7172263 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 58.89%
+Average x localization error: 0.0010746508533494435
+Average y localization error: 0.00022355753265673582
+Final distance from goal: 0.24032133016788182 meters
+Total change in yaw:  388.717 degrees
+Change in yaw per second: 12.256 deg/s
+
+unsecure18500-20000-1
+Navigation time: 36.0178676 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.78%
+Average x localization error: 0.0010433528105004402
+Average y localization error: 0.00020304865632129858
+Final distance from goal: 0.2690615165107867 meters
+Total change in yaw:  382.220 degrees
+Change in yaw per second: 10.612 deg/s
+
+unsecure18500-20000-2
+Navigation time: 34.2376611 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.41%
+Average x localization error: 0.0011567396502301984
+Average y localization error: 0.00022580730272852675
+Final distance from goal: 0.2607581887269227 meters
+Total change in yaw:  376.720 degrees
+Change in yaw per second: 11.003 deg/s
+
+unsecure18500-20000-3
+Navigation time: 35.6200932 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.40%
+Average x localization error: 0.0009681747110296846
+Average y localization error: 0.000256939121624558
+Final distance from goal: 0.25397793110657557 meters
+Total change in yaw:  375.299 degrees
+Change in yaw per second: 10.536 deg/s
+
+unsecure18500-20000-4
+Navigation time: 33.0701237 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.20%
+Average x localization error: 0.001062101403358391
+Average y localization error: 0.0002601058244620799
+Final distance from goal: 0.25914144918527227 meters
+Total change in yaw:  380.329 degrees
+Change in yaw per second: 11.501 deg/s
+
+unsecure20500-22000
+Navigation time: 36.0186584 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.57%
+Average x localization error: 0.0009415254384621249
+Average y localization error: 0.00023721029456005705
+Final distance from goal: 0.25746286424947323 meters
+Total change in yaw:  387.938 degrees
+Change in yaw per second: 10.770 deg/s
+
+unsecure20500-22000-1
+Navigation time: 34.9669426 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.95%
+Average x localization error: 0.0011092670899373823
+Average y localization error: 0.00024213762112297018
+Final distance from goal: 0.24978100023937155 meters
+Total change in yaw:  388.408 degrees
+Change in yaw per second: 11.108 deg/s
+
+unsecure20500-22000-2
+Navigation time: 38.581847 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.69%
+Average x localization error: 0.0010583543325057372
+Average y localization error: 0.00022716296940934492
+Final distance from goal: 0.25374963853459476 meters
+Total change in yaw:  383.349 degrees
+Change in yaw per second: 9.936 deg/s
+
+unsecure20500-22000-3
+Navigation time: 36.670842 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.47%
+Average x localization error: 0.0010450644328895645
+Average y localization error: 0.00025026099338037983
+Final distance from goal: 0.25662419746166454 meters
+Total change in yaw:  389.027 degrees
+Change in yaw per second: 10.609 deg/s
+
+unsecure20500-22000-4
+Navigation time: 27.8154155 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 85.45%
+Average x localization error: 0.0011763065356068475
+Average y localization error: 0.000244787019581958
+Final distance from goal: 0.9900317433125456 meters
+Total change in yaw:  354.260 degrees
+Change in yaw per second: 12.736 deg/s
+
+unsecure22500-24000
+Navigation time: 30.2669429 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 91.08%
+Average x localization error: 0.0013692263311684285
+Average y localization error: 0.0002494551759165042
+Final distance from goal: 1.1392926145222528 meters
+Total change in yaw:  348.817 degrees
+Change in yaw per second: 11.525 deg/s
+
+unsecure22500-24000-2
+Navigation time: 29.0671204 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 52.71%
+Average x localization error: 0.00111146761188745
+Average y localization error: 0.00021938383280169105
+Final distance from goal: 0.2536073168440454 meters
+Total change in yaw:  379.550 degrees
+Change in yaw per second: 13.058 deg/s
+
+unsecure22500-24000-3
+Navigation time: 32.9184562 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.84%
+Average x localization error: 0.0009712671701648391
+Average y localization error: 0.000260897533875075
+Final distance from goal: 0.25907174890996354 meters
+Total change in yaw:  373.259 degrees
+Change in yaw per second: 11.339 deg/s
+
+unsecure22500-24000-4
+Navigation time: 33.4178263 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.63%
+Average x localization error: 0.0010227513677832944
+Average y localization error: 0.00022019631794542897
+Final distance from goal: 0.2408315196688089 meters
+Total change in yaw:  387.938 degrees
+Change in yaw per second: 11.609 deg/s
+
+unsecure24500-26000
+Navigation time: 32.5174345 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 85.98%
+Average x localization error: 0.0009954651230591719
+Average y localization error: 0.00022358634568046614
+Final distance from goal: 0.2588614650709799 meters
+Total change in yaw:  382.850 degrees
+Change in yaw per second: 11.774 deg/s
+
+unsecure24500-26000-1
+Navigation time: 32.0670079 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.72%
+Average x localization error: 0.0009845517255734544
+Average y localization error: 0.00024059843503224004
+Final distance from goal: 0.23979451623113493 meters
+Total change in yaw:  386.231 degrees
+Change in yaw per second: 12.044 deg/s
+
+unsecure24500-26000-2
+Navigation time: 35.9458494 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 85.47%
+Average x localization error: 0.0009334028700430043
+Average y localization error: 0.00024043819425321463
+Final distance from goal: 0.2559752349322091 meters
+Total change in yaw:  386.059 degrees
+Change in yaw per second: 10.740 deg/s
+
+unsecure24500-26000-3
+Navigation time: 11.4892666 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.67%
+Average x localization error: 0.0024390025133798642
+Average y localization error: 0.00020211596202178743
+Final distance from goal: 2.0265733497226637 meters
+Total change in yaw:  226.777 degrees
+Change in yaw per second: 19.738 deg/s
+
+unsecure24500-26000-4
+Navigation time: 39.9684654 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.31%
+Average x localization error: 0.0009951448961436156
+Average y localization error: 0.00023743251632017746
+Final distance from goal: 0.2566788007640133 meters
+Total change in yaw:  379.069 degrees
+Change in yaw per second: 9.484 deg/s
+
+unsecure26500-28000
+Navigation time: 30.065245 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 58.23%
+Average x localization error: 0.0008885284364251149
+Average y localization error: 0.00022541710063329044
+Final distance from goal: 0.2512983233873544 meters
+Total change in yaw:  389.886 degrees
+Change in yaw per second: 12.968 deg/s
+
+unsecure26500-28000-1
+Navigation time: 36.6662366 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.84%
+Average x localization error: 0.0010892815193311886
+Average y localization error: 0.00023449898057494525
+Final distance from goal: 0.2516994834389255 meters
+Total change in yaw:  382.266 degrees
+Change in yaw per second: 10.426 deg/s
+
+unsecure26500-28000-2
+Navigation time: 37.1662182 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.34%
+Average x localization error: 0.0010805419894176428
+Average y localization error: 0.00023583580288623977
+Final distance from goal: 0.23952320498800275 meters
+Total change in yaw:  382.507 degrees
+Change in yaw per second: 10.292 deg/s
+
+unsecure26500-28000-3
+Navigation time: 33.6168739 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 86.65%
+Average x localization error: 0.001002288573533313
+Average y localization error: 0.00027069190750586623
+Final distance from goal: 0.25159443689356853 meters
+Total change in yaw:  372.703 degrees
+Change in yaw per second: 11.087 deg/s
+
+unsecure26500-28000-4
+Navigation time: 25.5153427 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 63.75%
+Average x localization error: 0.001404789302677569
+Average y localization error: 0.00022789790714964215
+Final distance from goal: 1.132981064953685 meters
+Total change in yaw:  343.030 degrees
+Change in yaw per second: 13.444 deg/s
+
+unsecure28500-30000
+Navigation time: 28.7179177 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 51.57%
+Average x localization error: 0.0010808775739382579
+Average y localization error: 0.00023300618275005368
+Final distance from goal: 0.26075792756547417 meters
+Total change in yaw:  379.447 degrees
+Change in yaw per second: 13.213 deg/s
+
+unsecure28500-30000-1
+Navigation time: 30.0669235 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 56.39%
+Average x localization error: 0.0010496156404428897
+Average y localization error: 0.00022724633531290942
+Final distance from goal: 0.2532940070981026 meters
+Total change in yaw:  377.636 degrees
+Change in yaw per second: 12.560 deg/s
+
+unsecure28500-30000-2
+Navigation time: 57.5329735 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 91.33%
+Average x localization error: 0.001617387105920583
+Average y localization error: 0.0002469767026658648
+Final distance from goal: 0.2539911996827647 meters
+Total change in yaw:  790.109 degrees
+Change in yaw per second: 13.733 deg/s
+
+unsecure28500-30000-4
+Navigation time: 35.7677844 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 86.49%
+Average x localization error: 0.0010321423024704697
+Average y localization error: 0.0002238879551660432
+Final distance from goal: 0.25817993291483476 meters
+Total change in yaw:  390.826 degrees
+Change in yaw per second: 10.927 deg/s
+
+unsecure30500-32000
+Navigation time: 32.0161098 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.61%
+Average x localization error: 0.0010004394845513865
+Average y localization error: 0.00022994289284636682
+Final distance from goal: 0.26128636727196686 meters
+Total change in yaw:  382.713 degrees
+Change in yaw per second: 11.954 deg/s
+
+unsecure30500-32000-1
+Navigation time: 46.0823841 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.16%
+Average x localization error: 0.0010220675301934859
+Average y localization error: 0.0002467562745004905
+Final distance from goal: 0.2581931127842348 meters
+Total change in yaw:  565.653 degrees
+Change in yaw per second: 12.275 deg/s
+
+unsecure30500-32000-2
+Navigation time: 37.8671772 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.54%
+Average x localization error: 0.000977247225639048
+Average y localization error: 0.00023750324729030666
+Final distance from goal: 0.26059684414480816 meters
+Total change in yaw:  374.898 degrees
+Change in yaw per second: 9.900 deg/s
+
+unsecure30500-32000-3
+Navigation time: 45.5342758 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.13%
+Average x localization error: 0.0010965047145471327
+Average y localization error: 0.00023165216558889164
+Final distance from goal: 0.25683902497232275 meters
+Total change in yaw:  579.856 degrees
+Change in yaw per second: 12.734 deg/s
+
+unsecure30500-32000-4
+Navigation time: 54.2348725 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.12%
+Average x localization error: 0.0013994465142978974
+Average y localization error: 0.0002628557958886846
+Final distance from goal: 0.24906088056652748 meters
+Total change in yaw:  763.059 degrees
+Change in yaw per second: 14.070 deg/s
+
+unsecure32500-34000-1
+Navigation time: 60.3346668 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.05%
+Average x localization error: 0.0022841306973010967
+Average y localization error: 0.00024110491070170091
+Final distance from goal: 0.2546613757437965 meters
+Total change in yaw:  754.379 degrees
+Change in yaw per second: 12.503 deg/s
+
+unsecure34500-36000
+Navigation time: 31.4683337 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 63.12%
+Average x localization error: 0.0010575409912643122
+Average y localization error: 0.00023908890721711546
+Final distance from goal: 0.2598882856244581 meters
+Total change in yaw:  378.897 degrees
+Change in yaw per second: 12.041 deg/s
+
+unsecure34500-36000-1
+Navigation time: 83.592785 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.43%
+Average x localization error: 0.0016987192312989817
+Average y localization error: 0.0002898578121490041
+Final distance from goal: 0.2738475705061254 meters
+Total change in yaw:  1193.987 degrees
+Change in yaw per second: 14.283 deg/s
+
+unsecure34500-36000-2
+Navigation time: 56.4792381 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 87.00%
+Average x localization error: 0.0023424343398428635
+Average y localization error: 0.0002592074640282595
+Final distance from goal: 1.8613056923725844 meters
+Total change in yaw:  1258.960 degrees
+Change in yaw per second: 22.291 deg/s
+
+unsecure34500-36000-3
+Navigation time: 72.629476 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.72%
+Average x localization error: 0.003590664001840797
+Average y localization error: 0.0002610735376403802
+Final distance from goal: 2.2113318548844045 meters
+Total change in yaw:  1198.284 degrees
+Change in yaw per second: 16.499 deg/s
+
+unsecure34500-36000-4
+Navigation time: 12.0652465 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.03%
+Average x localization error: 0.0013843082320349268
+Average y localization error: 0.0001866884970695593
+Final distance from goal: 2.321045883980845 meters
+Total change in yaw:  178.190 degrees
+Change in yaw per second: 14.769 deg/s
+
+unsecure36500-38000
+Navigation time: 68.177577 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.94%
+Average x localization error: 0.0022259017394886983
+Average y localization error: 0.00022130770018030868
+Final distance from goal: 2.5266542596897343 meters
+Total change in yaw:  3679.879 degrees
+Change in yaw per second: 53.975 deg/s
+
+unsecure36500-38000-1
+Navigation time: 65.5947233 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.42%
+Average x localization error: 0.0025466468228829394
+Average y localization error: 0.00024939591959790566
+Final distance from goal: 2.2519760677580147 meters
+Total change in yaw:  2455.124 degrees
+Change in yaw per second: 37.429 deg/s
+
+unsecure36500-38000-4
+Navigation time: 73.9499075 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.96%
+Average x localization error: 0.0022955796024657026
+Average y localization error: 0.00028847166905383495
+Final distance from goal: 2.2199014516374267 meters
+Total change in yaw:  1474.461 degrees
+Change in yaw per second: 19.939 deg/s
+
+unsecure38500-40000
+Navigation time: 58.6338939 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 92.53%
+Average x localization error: 0.0018375817023037289
+Average y localization error: 0.0002136282680464288
+Final distance from goal: 2.577671054862136 meters
+Total change in yaw:  1502.868 degrees
+Change in yaw per second: 25.631 deg/s
+
+unsecure38500-40000-1
+Navigation time: 64.1332913 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.76%
+Average x localization error: 0.0034849276146556567
+Average y localization error: 0.00012626187805166454
+Final distance from goal: 2.097921356837709 meters
+Total change in yaw:  1963.068 degrees
+Change in yaw per second: 30.609 deg/s
+
+unsecure38500-40000-2
+Navigation time: 62.4988923 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 86.28%
+Average x localization error: 0.0029550603220861475
+Average y localization error: 0.0002887115106535045
+Final distance from goal: 2.5301034140465934 meters
+Total change in yaw:  1323.074 degrees
+Change in yaw per second: 21.170 deg/s
+
+unsecure38500-40000-3
+Navigation time: 57.4836691 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 92.06%
+Average x localization error: 0.002569886578489488
+Average y localization error: 0.0002630786833547731
+Final distance from goal: 2.5975721085677215 meters
+Total change in yaw:  2638.551 degrees
+Change in yaw per second: 45.901 deg/s
+
+unsecure38500-40000-4
+Navigation time: 14.4011877 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 69.70%
+Average x localization error: 0.001970409895202596
+Average y localization error: 0.00020798654195787735
+Final distance from goal: 1.4171963841206734 meters
+Total change in yaw:  259.321 degrees
+Change in yaw per second: 18.007 deg/s
+
+
+unsecure500-2000
+Navigation time: 31.9167451 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.53%
+Average x localization error: 0.0009742501389009447
+Average y localization error: 0.00021469043391377307
+Final distance from goal: 0.24679330334977773 meters
+Total change in yaw:  370.687 degrees
+Change in yaw per second: 11.614 deg/s
+
+unsecure500-2000-1
+Navigation time: 35.4178194 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.03%
+Average x localization error: 0.0010934607732905521
+Average y localization error: 0.0002433500301799454
+Final distance from goal: 0.24985570087865625 meters
+Total change in yaw:  408.920 degrees
+Change in yaw per second: 11.546 deg/s
+
+unsecure500-2000-2
+Navigation time: 31.6841338 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 80.93%
+Average x localization error: 0.0010761535952971918
+Average y localization error: 0.00022020106134313167
+Final distance from goal: 0.2847863057451532 meters
+Total change in yaw:  361.307 degrees
+Change in yaw per second: 11.403 deg/s
+
+unsecure500-2000-3
+Navigation time: 29.416358 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 40.90%
+Average x localization error: 0.0009650987749221904
+Average y localization error: 0.0002144781266051571
+Final distance from goal: 0.24459273261463294 meters
+Total change in yaw:  412.931 degrees
+Change in yaw per second: 14.037 deg/s
+
+unsecure500-2000-4
+Navigation time: 38.3310112 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 80.12%
+Average x localization error: 0.0010349150998701648
+Average y localization error: 0.0002054456451113105
+Final distance from goal: 0.23303044295338396 meters
+Total change in yaw:  373.557 degrees
+Change in yaw per second: 9.746 deg/s
+
+unsecure2500-4000
+Navigation time: 36.8871837 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 90.23%
+Average x localization error: 0.0009592508588703545
+Average y localization error: 0.00022495095294733093
+Final distance from goal: 0.2405129433293804 meters
+Total change in yaw:  378.519 degrees
+Change in yaw per second: 10.262 deg/s
+
+unsecure2500-4000-1
+Navigation time: 34.3715186 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 81.72%
+Average x localization error: 0.0009700229447140478
+Average y localization error: 0.00022190617403075068
+Final distance from goal: 0.24718461194233066 meters
+Total change in yaw:  388.064 degrees
+Change in yaw per second: 11.290 deg/s
+
+unsecure2500-4000-2
+Navigation time: 37.4961995 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 80.49%
+Average x localization error: 0.0010210831638797907
+Average y localization error: 0.00023169474139849274
+Final distance from goal: 0.23021043809236566 meters
+Total change in yaw:  388.609 degrees
+Change in yaw per second: 10.364 deg/s
+
+unsecure2500-4000-3
+Navigation time: 21.7513012 seconds
+Control loop missed desired rate 6 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.22%
+Average x localization error: 0.0012069025618252683
+Average y localization error: 0.00022606960987421175
+Final distance from goal: 1.158624690902061 meters
+Total change in yaw:  344.176 degrees
+Change in yaw per second: 15.823 deg/s
+
+unsecure2500-4000-4
+Navigation time: 33.3667718 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.54%
+Average x localization error: 0.0010284503566524049
+Average y localization error: 0.00024727571811564484
+Final distance from goal: 0.24435185502218396 meters
+Total change in yaw:  379.069 degrees
+Change in yaw per second: 11.361 deg/s
+
+unsecure4500-6000
+Navigation time: 28.2666289 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.43%
+Average x localization error: 0.0011681217066167402
+Average y localization error: 0.00021315702169441176
+Final distance from goal: 0.23377532618976304 meters
+Total change in yaw:  335.982 degrees
+Change in yaw per second: 11.886 deg/s
+
+unsecure4500-6000-1
+Navigation time: 33.6703059 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.31%
+Average x localization error: 0.0010094860499555989
+Average y localization error: 0.0002490300367919891
+Final distance from goal: 0.25067907756426216 meters
+Total change in yaw:  374.124 degrees
+Change in yaw per second: 11.111 deg/s
+
+unsecure4500-6000-2
+Navigation time: 31.666751 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.34%
+Average x localization error: 0.0010007923170687577
+Average y localization error: 0.00023081500623573986
+Final distance from goal: 0.25495731365825414 meters
+Total change in yaw:  378.782 degrees
+Change in yaw per second: 11.962 deg/s
+
+unsecure4500-6000-3
+Navigation time: 35.7674859 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.72%
+Average x localization error: 0.0010406994570470757
+Average y localization error: 0.00021525159734370574
+Final distance from goal: 0.24260494604569807 meters
+Total change in yaw:  377.287 degrees
+Change in yaw per second: 10.548 deg/s
+
+unsecure4500-6000-4
+Navigation time: 28.3200695 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 81.67%
+Average x localization error: 0.0011852306507210576
+Average y localization error: 0.00021373230294836337
+Final distance from goal: 1.1324622633263681 meters
+Total change in yaw:  336.498 degrees
+Change in yaw per second: 11.882 deg/s
+
+unsecure6500-8000
+Navigation time: 34.8674579 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.29%
+Average x localization error: 0.0010584565924014833
+Average y localization error: 0.00026253122202230005
+Final distance from goal: 0.24140061129387808 meters
+Total change in yaw:  379.705 degrees
+Change in yaw per second: 10.890 deg/s
+
+unsecure6500-8000-1
+Navigation time: 33.7200336 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.80%
+Average x localization error: 0.0010025971036281402
+Average y localization error: 0.00025238582733491774
+Final distance from goal: 0.2561545310475431 meters
+Total change in yaw:  382.220 degrees
+Change in yaw per second: 11.335 deg/s
+
+unsecure6500-8000-2
+Navigation time: 13.3679557 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 46.53%
+Average x localization error: 0.001812372031175117
+Average y localization error: 0.00020562508409523118
+Final distance from goal: 1.3548167908418345 meters
+Total change in yaw:  261.040 degrees
+Change in yaw per second: 19.527 deg/s
+
+unsecure6500-8000-3
+Navigation time: 130.0805278 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 42.32%
+Average x localization error: nan
+Average y localization error: nan
+Final distance from goal: 2.546917731466449 meters
+Total change in yaw:  380.616 degrees
+Change in yaw per second: 2.926 deg/s
+
+unsecure8500-10000
+Navigation time: 35.5679167 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 81.72%
+Average x localization error: 0.0010456069564637005
+Average y localization error: 0.00023085114488303777
+Final distance from goal: 0.25592782686275384 meters
+Total change in yaw:  372.594 degrees
+Change in yaw per second: 10.476 deg/s
+
+unsecure8500-10000-1
+Navigation time: 1.7085715 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 93.90%
+Average x localization error: 0.001900820826894409
+Average y localization error: 0.0002410200451924614
+Final distance from goal: 2.346690307858003 meters
+Total change in yaw:  130.462 degrees
+Change in yaw per second: 76.358 deg/s
+
+unsecure8500-10000-2
+Navigation time: 34.9186767 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.77%
+Average x localization error: 0.0009624329352768661
+Average y localization error: 0.00024271597286419004
+Final distance from goal: 0.2397801939483726 meters
+Total change in yaw:  390.442 degrees
+Change in yaw per second: 11.181 deg/s
+
+unsecure8500-10000-3
+Navigation time: 32.6669679 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.30%
+Average x localization error: 0.00101296907405315
+Average y localization error: 0.00024745955711256805
+Final distance from goal: 0.256043322176582 meters
+Total change in yaw:  390.184 degrees
+Change in yaw per second: 11.944 deg/s
+
+unsecure10500-12000
+Navigation time: 36.0185559 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.53%
+Average x localization error: 0.0010474789132692058
+Average y localization error: 0.00020893364526670206
+Final distance from goal: 0.24383213430848302 meters
+Total change in yaw:  383.595 degrees
+Change in yaw per second: 10.650 deg/s
+
+unsecure10500-12000-1
+Navigation time: 33.5359671 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.34%
+Average x localization error: 0.0009960075575241702
+Average y localization error: 0.0002448931884389663
+Final distance from goal: 0.25086393143418617 meters
+Total change in yaw:  387.938 degrees
+Change in yaw per second: 11.568 deg/s
+
+unsecure10500-12000-2
+Navigation time: 31.9691065 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 85.00%
+Average x localization error: 0.0010166690627485897
+Average y localization error: 0.00021634635123451138
+Final distance from goal: 0.24173384304905504 meters
+Total change in yaw:  385.727 degrees
+Change in yaw per second: 12.066 deg/s
+
+unsecure10500-12000-3
+Navigation time: 14.9559728 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.87%
+Average x localization error: 0.0017989662343500241
+Average y localization error: 0.00023107241391724596
+Final distance from goal: 1.3439700095618476 meters
+Total change in yaw:  269.061 degrees
+Change in yaw per second: 17.990 deg/s
+
+unsecure10500-12000-4
+Navigation time: 23.3688868 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 79.40%
+Average x localization error: 0.001483366557060489
+Average y localization error: 0.00023434820786031113
+Final distance from goal: 1.1477653885401384 meters
+Total change in yaw:  349.103 degrees
+Change in yaw per second: 14.939 deg/s
+
+unsecure12500-14000
+Navigation time: 31.6334974 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.93%
+Average x localization error: 0.0010284605934155558
+Average y localization error: 0.00022864266006385642
+Final distance from goal: 0.24943990863255502 meters
+Total change in yaw:  373.225 degrees
+Change in yaw per second: 11.798 deg/s
+
+unsecure12500-14000-1
+Navigation time: 7.2156896 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.77%
+Average x localization error: 0.0022658422298236294
+Average y localization error: 0.0002762375851771773
+Final distance from goal: 2.2520353116618215 meters
+Total change in yaw:  169.309 degrees
+Change in yaw per second: 23.464 deg/s
+
+unsecure12500-14000-2
+Navigation time: 34.067162 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.70%
+Average x localization error: 0.0009857190446661353
+Average y localization error: 0.00023763526644223168
+Final distance from goal: 0.23754057139924276 meters
+Total change in yaw:  374.949 degrees
+Change in yaw per second: 11.006 deg/s
+
+unsecure12500-14000-3
+Navigation time: 34.7836537 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.74%
+Average x localization error: 0.0010004595840948582
+Average y localization error: 0.00025125322107421254
+Final distance from goal: 0.24363755882725274 meters
+Total change in yaw:  387.870 degrees
+Change in yaw per second: 11.151 deg/s
+
+unsecure12500-14000-4
+Navigation time: 32.0661596 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.54%
+Average x localization error: 0.0009452011432396295
+Average y localization error: 0.00021177026328467557
+Final distance from goal: 0.25505991061353683 meters
+Total change in yaw:  384.025 degrees
+Change in yaw per second: 11.976 deg/s
+
+unsecure14500-16000
+Navigation time: 32.7693993 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 85.17%
+Average x localization error: 0.0010667427287133157
+Average y localization error: 0.00022653549943607064
+Final distance from goal: 0.25488590262563465 meters
+Total change in yaw:  376.777 degrees
+Change in yaw per second: 11.498 deg/s
+
+unsecure14500-16000-1
+Navigation time: 123.0173495 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.38%
+Average x localization error: nan
+Average y localization error: nan
+Final distance from goal: 1.1435776188082662 meters
+Total change in yaw:  388.253 degrees
+Change in yaw per second: 3.156 deg/s
+
+unsecure14500-16000-2
+Navigation time: 37.984135 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.09%
+Average x localization error: 0.0009542613634644831
+Average y localization error: 0.000247915075429571
+Final distance from goal: 0.24128058968616972 meters
+Total change in yaw:  373.036 degrees
+Change in yaw per second: 9.821 deg/s
+
+unsecure14500-16000-3
+Navigation time: 34.9659518 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 85.39%
+Average x localization error: 0.0010569202743614065
+Average y localization error: 0.00025591293880520194
+Final distance from goal: 0.2395454869731607 meters
+Total change in yaw:  386.884 degrees
+Change in yaw per second: 11.065 deg/s
+
+unsecure16500-18000
+Navigation time: 19.9064967 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.94%
+Average x localization error: 0.0015222947349803092
+Average y localization error: 0.0002143598627433088
+Final distance from goal: 1.1495165555675282 meters
+Total change in yaw:  299.199 degrees
+Change in yaw per second: 15.030 deg/s
+
+unsecure16500-18000-1
+Navigation time: 28.4707347 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 49.83%
+Average x localization error: 0.0009898439312098775
+Average y localization error: 0.00022593885135721697
+Final distance from goal: 0.2397377407695004 meters
+Total change in yaw:  383.022 degrees
+Change in yaw per second: 13.453 deg/s
+
+unsecure16500-18000-2
+Navigation time: 23.417461 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.10%
+Average x localization error: 0.0012853888311886196
+Average y localization error: 0.0002487507613496187
+Final distance from goal: 1.1368768601033754 meters
+Total change in yaw:  319.309 degrees
+Change in yaw per second: 13.636 deg/s
+
+unsecure16500-18000-3
+Navigation time: 35.3690265 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.95%
+Average x localization error: 0.0009937759944526811
+Average y localization error: 0.0002401321468534349
+Final distance from goal: 0.252692919423652 meters
+Total change in yaw:  386.317 degrees
+Change in yaw per second: 10.922 deg/s
+
+unsecure16500-18000-4
+Navigation time: 35.0197557 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.38%
+Average x localization error: 0.0009875910724797435
+Average y localization error: 0.00022668336852761734
+Final distance from goal: 0.2566980523699531 meters
+Total change in yaw:  372.961 degrees
+Change in yaw per second: 10.650 deg/s
+
+unsecure18500-20000
+Navigation time: 37.1172105 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.01%
+Average x localization error: 0.0009769867718294326
+Average y localization error: 0.0002192444657095683
+Final distance from goal: 0.2590220963639519 meters
+Total change in yaw:  384.111 degrees
+Change in yaw per second: 10.349 deg/s
+
+unsecure18500-20000-1
+Navigation time: 35.3655575 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.38%
+Average x localization error: 0.0010877307222035611
+Average y localization error: 0.00023578091555679764
+Final distance from goal: 0.2508760480504662 meters
+Total change in yaw:  375.287 degrees
+Change in yaw per second: 10.612 deg/s
+
+unsecure18500-20000-2
+Navigation time: 12.4671327 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.77%
+Average x localization error: 0.0021317941614990015
+Average y localization error: 0.00024060807617571242
+Final distance from goal: 1.6324482472772026 meters
+Total change in yaw:  260.810 degrees
+Change in yaw per second: 20.920 deg/s
+
+unsecure18500-20000-3
+Navigation time: 33.9341525 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.79%
+Average x localization error: 0.000956793593922722
+Average y localization error: 0.0002463399938469221
+Final distance from goal: 0.25073783989449794 meters
+Total change in yaw:  372.428 degrees
+Change in yaw per second: 10.975 deg/s
+
+unsecure18500-20000-4
+Navigation time: 23.755787 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.90%
+Average x localization error: 0.001337812576427383
+Average y localization error: 0.00021719043114799258
+Final distance from goal: 1.1341362178643017 meters
+Total change in yaw:  346.468 degrees
+Change in yaw per second: 14.585 deg/s
+
+unsecure20500-22000
+Navigation time: 34.6167681 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.75%
+Average x localization error: 0.0010708831118341991
+Average y localization error: 0.000255969283856971
+Final distance from goal: 0.2590452006297469 meters
+Total change in yaw:  385.314 degrees
+Change in yaw per second: 11.131 deg/s
+
+unsecure20500-22000-1
+Navigation time: 37.0376419 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.67%
+Average x localization error: 0.0009522958584732822
+Average y localization error: 0.0002507799131993437
+Final distance from goal: 0.2562980698516884 meters
+Total change in yaw:  376.433 degrees
+Change in yaw per second: 10.164 deg/s
+
+unsecure20500-22000-2
+Navigation time: 33.3674067 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.78%
+Average x localization error: 0.0010287725954786363
+Average y localization error: 0.00023927791268829794
+Final distance from goal: 0.2552901841987246 meters
+Total change in yaw:  375.104 degrees
+Change in yaw per second: 11.242 deg/s
+
+unsecure20500-22000-3
+Navigation time: 28.3647855 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 51.74%
+Average x localization error: 0.0010061201266171557
+Average y localization error: 0.00023598261334595124
+Final distance from goal: 0.25644003524234643 meters
+Total change in yaw:  374.050 degrees
+Change in yaw per second: 13.187 deg/s
+
+unsecure20500-22000-4
+Navigation time: 10.5557409 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.69%
+Average x localization error: 0.0020112053747168186
+Average y localization error: 0.00028140682185930717
+Final distance from goal: 2.180158543994474 meters
+Total change in yaw:  167.476 degrees
+Change in yaw per second: 15.866 deg/s
+
+unsecure22500-24000
+Navigation time: 11.1913387 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.82%
+Average x localization error: 0.0026616347050983573
+Average y localization error: 0.00020464580809563543
+Final distance from goal: 2.0389578543371707 meters
+Total change in yaw:  194.061 degrees
+Change in yaw per second: 17.340 deg/s
+
+unsecure22500-24000-1
+Navigation time: 34.6337048 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.13%
+Average x localization error: 0.0010227655662734428
+Average y localization error: 0.00024602747257411976
+Final distance from goal: 0.24395289662334438 meters
+Total change in yaw:  385.085 degrees
+Change in yaw per second: 11.119 deg/s
+
+unsecure22500-24000-2
+Navigation time: 36.4674648 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 85.49%
+Average x localization error: 0.0009654623456375706
+Average y localization error: 0.00022149313147730565
+Final distance from goal: 0.25548910298466954 meters
+Total change in yaw:  383.280 degrees
+Change in yaw per second: 10.510 deg/s
+
+unsecure22500-24000-3
+Navigation time: 33.5183 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.17%
+Average x localization error: 0.000938931562173906
+Average y localization error: 0.00022883295920232767
+Final distance from goal: 0.24207474194330605 meters
+Total change in yaw:  384.374 degrees
+Change in yaw per second: 11.468 deg/s
+
+unsecure22500-24000-4
+Navigation time: 33.9166327 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.45%
+Average x localization error: 0.0010264530948184466
+Average y localization error: 0.0002553730207869574
+Final distance from goal: 0.2599395297697591 meters
+Total change in yaw:  374.084 degrees
+Change in yaw per second: 11.030 deg/s
+
+unsecure24500-26000
+Navigation time: 34.0676785 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.84%
+Average x localization error: 0.0010041655723198994
+Average y localization error: 0.00024029610366215794
+Final distance from goal: 0.2463454516240396 meters
+Total change in yaw:  373.844 degrees
+Change in yaw per second: 10.974 deg/s
+
+unsecure24500-26000-1
+Navigation time: 37.1210049 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.31%
+Average x localization error: 0.00100214812598293
+Average y localization error: 0.00021687206437722076
+Final distance from goal: 0.26248274642255454 meters
+Total change in yaw:  388.213 degrees
+Change in yaw per second: 10.458 deg/s
+
+unsecure24500-26000-2
+Navigation time: 10.1175514 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.24%
+Average x localization error: 0.002173310887176999
+Average y localization error: 0.0002643646762333362
+Final distance from goal: 2.1871829173709125 meters
+Total change in yaw:  167.647 degrees
+Change in yaw per second: 16.570 deg/s
+
+unsecure24500-26000-4
+Navigation time: 21.8179041 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.20%
+Average x localization error: 0.0015962361945036777
+Average y localization error: 0.00021379193335319146
+Final distance from goal: 1.1506079205789579 meters
+Total change in yaw:  333.461 degrees
+Change in yaw per second: 15.284 deg/s
+
+unsecure26500-28000
+Navigation time: 29.1677038 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 55.52%
+Average x localization error: 0.0009901222629099468
+Average y localization error: 0.0002345961484062537
+Final distance from goal: 0.2619782794827816 meters
+Total change in yaw:  378.725 degrees
+Change in yaw per second: 12.984 deg/s
+
+unsecure26500-28000-1
+Navigation time: 35.0739659 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 86.16%
+Average x localization error: 0.0009544086020738329
+Average y localization error: 0.00023814603573390963
+Final distance from goal: 0.25715520462620733 meters
+Total change in yaw:  381.246 degrees
+Change in yaw per second: 10.870 deg/s
+
+unsecure26500-28000-2
+Navigation time: 9.6643524 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 86.21%
+Average x localization error: 0.0019212865793789508
+Average y localization error: 0.00023354996805392437
+Final distance from goal: 2.188809571381626 meters
+Total change in yaw:  167.132 degrees
+Change in yaw per second: 17.294 deg/s
+
+unsecure26500-28000-3
+Navigation time: 30.2180183 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.08%
+Average x localization error: 0.001134159622439654
+Average y localization error: 0.00021472355215201424
+Final distance from goal: 0.4064287653719736 meters
+Total change in yaw:  375.883 degrees
+Change in yaw per second: 12.439 deg/s
+
+unsecure26500-28000-4
+Navigation time: 3.8027398 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.88%
+Average x localization error: 0.0025691193570664935
+Average y localization error: 0.00023818423474864309
+Final distance from goal: 2.3646727904509484 meters
+Total change in yaw:  115.737 degrees
+Change in yaw per second: 30.435 deg/s
+
+unsecure28500-30000
+Navigation time: 15.253483 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 91.71%
+Average x localization error: 0.0015706259408884448
+Average y localization error: 9.417549052791962e-05
+Final distance from goal: 2.6039780847215344 meters
+Total change in yaw:  1033.043 degrees
+Change in yaw per second: 67.725 deg/s
+
+unsecure28500-30000-1
+Navigation time: 38.1273943 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.57%
+Average x localization error: 0.000984628398282427
+Average y localization error: 0.0002386862971491427
+Final distance from goal: 0.2588445255122343 meters
+Total change in yaw:  378.381 degrees
+Change in yaw per second: 9.924 deg/s
+
+unsecure28500-30000-2
+Navigation time: 29.5178358 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 56.45%
+Average x localization error: 0.0010389101508140029
+Average y localization error: 0.00023620675776563603
+Final distance from goal: 0.26063496531730457 meters
+Total change in yaw:  378.725 degrees
+Change in yaw per second: 12.830 deg/s
+
+unsecure28500-30000-3
+Navigation time: 32.3177287 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.00%
+Average x localization error: 0.0010448552307477904
+Average y localization error: 0.00024101004166421857
+Final distance from goal: 0.25008975486536716 meters
+Total change in yaw:  387.325 degrees
+Change in yaw per second: 11.985 deg/s
+
+unsecure28500-30000-4
+Navigation time: 32.4197718 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.93%
+Average x localization error: 0.001085473289201186
+Average y localization error: 0.0002465665387470809
+Final distance from goal: 0.25767777787153673 meters
+Total change in yaw:  387.778 degrees
+Change in yaw per second: 11.961 deg/s
+
+unsecure30500-32000
+Navigation time: 66.500696 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 91.96%
+Average x localization error: 0.0024622412748370654
+Average y localization error: 0.00022229098921578767
+Final distance from goal: 2.5855499607177888 meters
+Total change in yaw:  2123.382 degrees
+Change in yaw per second: 31.930 deg/s
+
+unsecure30500-32000-1
+Navigation time: 29.2189944 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 57.69%
+Average x localization error: 0.0010284239490506806
+Average y localization error: 0.00020135940153070744
+Final distance from goal: 0.2623365483961137 meters
+Total change in yaw:  386.317 degrees
+Change in yaw per second: 13.221 deg/s
+
+unsecure30500-32000-2
+Navigation time: 40.3814507 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.75%
+Average x localization error: 0.0009242944293775561
+Average y localization error: 0.00026574513707979664
+Final distance from goal: 0.8251610810718777 meters
+Total change in yaw:  532.450 degrees
+Change in yaw per second: 13.186 deg/s
+
+unsecure30500-32000-3
+Navigation time: 48.8705378 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 85.95%
+Average x localization error: 0.0019305590446278835
+Average y localization error: 0.00025439525367038145
+Final distance from goal: 0.258539767536085 meters
+Total change in yaw:  573.027 degrees
+Change in yaw per second: 11.725 deg/s
+
+unsecure30500-32000-4
+Navigation time: 34.5674956 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.70%
+Average x localization error: 0.0010095493427854305
+Average y localization error: 0.0002606940298519514
+Final distance from goal: 0.24811516783267226 meters
+Total change in yaw:  386.294 degrees
+Change in yaw per second: 11.175 deg/s
+
+unsecure32500-34000-1
+Navigation time: 64.6873802 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.53%
+Average x localization error: 0.0015355307418221905
+Average y localization error: 0.00022899791811570902
+Final distance from goal: 0.26014704670571215 meters
+Total change in yaw:  984.273 degrees
+Change in yaw per second: 15.216 deg/s
+
+unsecure32500-34000-2
+Navigation time: 73.5990704 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.17%
+Average x localization error: 0.002098678412979455
+Average y localization error: 0.000242152246874028
+Final distance from goal: 2.3116347985554797 meters
+Total change in yaw:  2830.182 degrees
+Change in yaw per second: 38.454 deg/s
+
+unsecure32500-34000-3
+Navigation time: 60.4332264 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.13%
+Average x localization error: 0.0012570593364064197
+Average y localization error: 0.00025753861750355613
+Final distance from goal: 0.2577848903433141 meters
+Total change in yaw:  772.439 degrees
+Change in yaw per second: 12.782 deg/s
+
+unsecure32500-34000-4
+Navigation time: 84.9355236 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.69%
+Average x localization error: 0.0016209705129600406
+Average y localization error: 0.0002749020808136559
+Final distance from goal: 0.25380154392495113 meters
+Total change in yaw:  1599.532 degrees
+Change in yaw per second: 18.832 deg/s
+
+unsecure34500-36000
+Navigation time: 82.1488591 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.29%
+Average x localization error: 0.0017024215755701978
+Average y localization error: 0.0002566674162262251
+Final distance from goal: 0.2533849026181255 meters
+Total change in yaw:  2220.550 degrees
+Change in yaw per second: 27.031 deg/s
+
+unsecure34500-36000-1
+Navigation time: 87.948853 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.73%
+Average x localization error: 0.0008553707214517285
+Average y localization error: 0.00022305265178788232
+Final distance from goal: 0.2576416684067799 meters
+Total change in yaw:  1241.542 degrees
+Change in yaw per second: 14.117 deg/s
+
+unsecure34500-36000-2
+Navigation time: 49.3338466 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 86.68%
+Average x localization error: 0.000843519648058995
+Average y localization error: 0.0002506301600511933
+Final distance from goal: 0.2575638695701071 meters
+Total change in yaw:  591.613 degrees
+Change in yaw per second: 11.992 deg/s
+
+unsecure34500-36000-4
+Navigation time: 0.3005259 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 88.50%
+Average x localization error: 0.001737360879647975
+Average y localization error: 0.00016359109124878962
+Final distance from goal: 2.330209409455177 meters
+Total change in yaw:  91.100 degrees
+Change in yaw per second: 303.136 deg/s
+
+unsecure36500-38000-1
+Navigation time: 67.0827792 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 91.69%
+Average x localization error: 0.0021178740773744
+Average y localization error: 0.00015918825428760133
+Final distance from goal: 2.5485027967703866 meters
+Total change in yaw:  2865.935 degrees
+Change in yaw per second: 42.722 deg/s
+
+unsecure36500-38000-2
+Navigation time: 66.9984806 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 91.82%
+Average x localization error: 0.0027507350873970686
+Average y localization error: 0.00025464690186430863
+Final distance from goal: 2.6416364626730418 meters
+Total change in yaw:  2181.365 degrees
+Change in yaw per second: 32.558 deg/s
+
+unsecure36500-38000-3
+Navigation time: 28.5687054 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 58.66%
+Average x localization error: 0.0009665989044600348
+Average y localization error: 0.00022421629964919265
+Final distance from goal: 0.2557873590522175 meters
+Total change in yaw:  385.452 degrees
+Change in yaw per second: 13.492 deg/s
+
+unsecure36500-38000-4
+Navigation time: 71.2331466 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.28%
+Average x localization error: 0.002156839604598457
+Average y localization error: 0.00027290057486009645
+Final distance from goal: 2.1760506405761832 meters
+Total change in yaw:  1636.958 degrees
+Change in yaw per second: 22.980 deg/s
+
+unsecure38500-40000
+Navigation time: 63.1881166 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.45%
+Average x localization error: 0.001702009912177703
+Average y localization error: 0.0001608038719305611
+Final distance from goal: 2.4889869937646356 meters
+Total change in yaw:  2834.422 degrees
+Change in yaw per second: 44.857 deg/s
+
+unsecure38500-40000-1
+Navigation time: 56.7302581 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 93.12%
+Average x localization error: 0.0024813656713828084
+Average y localization error: 0.0002565124738673167
+Final distance from goal: 2.337184631543908 meters
+Total change in yaw:  1409.591 degrees
+Change in yaw per second: 24.847 deg/s
+
+unsecure38500-40000-3
+Navigation time: 34.8322164 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 40.95%
+Average x localization error: 0.0008460327141971244
+Average y localization error: 0.00018478152794915308
+Final distance from goal: 0.24953193436790655 meters
+Total change in yaw:  553.769 degrees
+Change in yaw per second: 15.898 deg/s
+
+unsecure6500-8000
+Navigation time: 33.7808407 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 81.77%
+Average x localization error: 0.0009854923012886645
+Average y localization error: 0.0002115584123607756
+Final distance from goal: 0.23977023931254315 meters
+Total change in yaw:  375.688 degrees
+Change in yaw per second: 11.121 deg/s
+
+unsecure6500-8000-1
+Navigation time: 35.7198345 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.82%
+Average x localization error: 0.0010248601659712602
+Average y localization error: 0.00021994184607537426
+Final distance from goal: 0.2486463740715411 meters
+Total change in yaw:  378.381 degrees
+Change in yaw per second: 10.593 deg/s
+
+unsecure8500-10000
+Navigation time: 11.2115247 seconds
+Control loop missed desired rate 7 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 82.71%
+Average x localization error: 0.0019740102620927798
+Average y localization error: 0.00021766245281151762
+Final distance from goal: 2.049625793719046 meters
+Total change in yaw:  190.222 degrees
+Change in yaw per second: 16.967 deg/s
+
+unsecure14500-16000
+Navigation time: 34.216824 seconds
+Control loop missed desired rate 6 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.84%
+Average x localization error: 0.0009312614221083395
+Average y localization error: 0.0002352638418780997
+Final distance from goal: 0.23955319523277474 meters
+Total change in yaw:  374.829 degrees
+Change in yaw per second: 10.955 deg/s
+
+unsecure16500-18000
+Navigation time: 0.2520395 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 86.97%
+Average x localization error: 0.0018507064181214183
+Average y localization error: 0.0001883049391028276
+Final distance from goal: 2.3714329485049803 meters
+Total change in yaw:  68.182 degrees
+Change in yaw per second: 270.521 deg/s
+
+unsecure24500-26000
+Navigation time: 36.0324671 seconds
+Control loop missed desired rate 9 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.13%
+Average x localization error: 0.0009540397649535889
+Average y localization error: 0.00022104656766085202
+Final distance from goal: 0.2537576839825036 meters
+Total change in yaw:  381.395 degrees
+Change in yaw per second: 10.585 deg/s
+
+unsecure22500-24000
+Navigation time: 35.6164656 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 92.26%
+Average x localization error: 0.0009496044411289312
+Average y localization error: 0.0002105851463245821
+Final distance from goal: 0.25565004118432305 meters
+Total change in yaw:  387.623 degrees
+Change in yaw per second: 10.883 deg/s
+
+unsecure28500-30000
+Navigation time: 35.2673374 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.91%
+Average x localization error: 0.0010213509213582506
+Average y localization error: 0.00023869152853335255
+Final distance from goal: 0.2510385310430054 meters
+Total change in yaw:  378.164 degrees
+Change in yaw per second: 10.723 deg/s
+
+
+unsecure32500-34000
+Navigation time: 55.3827022 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.84%
+Average x localization error: 0.0012402522008909999
+Average y localization error: 0.00024220615708532553
+Final distance from goal: 0.2532307632800132 meters
+Total change in yaw:  739.081 degrees
+Change in yaw per second: 13.345 deg/s
+
+unsecure32500-34000-1
+Navigation time: 49.0827732 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.50%
+Average x localization error: 0.0007808095325981151
+Average y localization error: 0.0002832307082361759
+Final distance from goal: 0.2470272424812065 meters
+Total change in yaw:  548.418 degrees
+Change in yaw per second: 11.173 deg/s
+
+unsecure32500-34000-2
+Navigation time: 74.6987617 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.21%
+Average x localization error: 0.0005983320193354082
+Average y localization error: 0.00023019802389520573
+Final distance from goal: 0.23214444896566325 meters
+Total change in yaw:  1372.520 degrees
+Change in yaw per second: 18.374 deg/s
+
+unsecure32500-34000-3
+Navigation time: 75.3985674 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.54%
+Average x localization error: 0.0009724715248518806
+Average y localization error: 0.0002805202928097635
+Final distance from goal: 0.25193642008642697 meters
+Total change in yaw:  1196.783 degrees
+Change in yaw per second: 15.873 deg/s
+
+unsecure34500-36000
+Navigation time: 11.5691184 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.96%
+Average x localization error: 0.002290213007380645
+Average y localization error: 0.0002139837953641722
+Final distance from goal: 2.189115556439993 meters
+Total change in yaw:  176.242 degrees
+Change in yaw per second: 15.234 deg/s
+
+unsecure36500-38000
+Navigation time: 72.403869 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.94%
+Average x localization error: 0.002680101559393711
+Average y localization error: 0.0002544374751684207
+Final distance from goal: 2.6689723121578544 meters
+Total change in yaw:  1643.931 degrees
+Change in yaw per second: 22.705 deg/s
+
+unsecure36500-38000-1
+Navigation time: 61.1340432 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.48%
+Average x localization error: 0.0017125413833967778
+Average y localization error: 0.0002559927889621508
+Final distance from goal: 2.449552686017996 meters
+Total change in yaw:  2104.130 degrees
+Change in yaw per second: 34.418 deg/s
+
+unsecure36500-38000-2
+Navigation time: 66.7841062 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.51%
+Average x localization error: 0.003186548957874164
+Average y localization error: 0.00032520627334348606
+Final distance from goal: 2.321751256748334 meters
+Total change in yaw:  1523.839 degrees
+Change in yaw per second: 22.817 deg/s
+
+unsecure38500-40000
+Navigation time: 62.633121 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.89%
+Average x localization error: 0.002664875941848029
+Average y localization error: 0.00025999891649392036
+Final distance from goal: 2.1038201446806526 meters
+Total change in yaw:  1619.064 degrees
+Change in yaw per second: 25.850 deg/s
+
+unsecure38500-40000-1
+Navigation time: 61.3593004 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 93.25%
+Average x localization error: 0.0023297519434255505
+Average y localization error: 0.00028047502804854653
+Final distance from goal: 2.615778180761425 meters
+Total change in yaw:  1075.556 degrees
+Change in yaw per second: 17.529 deg/s
+
+unsecure32500-34000
+Navigation time: 62.5306177 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.12%
+Average x localization error: 0.0009447586181781403
+Average y localization error: 0.00023744725673283446
+Final distance from goal: 0.2570684951604172 meters
+Total change in yaw:  947.523 degrees
+Change in yaw per second: 15.153 deg/s
+
+
+secure500-2000
+Navigation time: 36.5690795 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.57%
+Average x localization error: 0.0010300413592312476
+Average y localization error: 0.00026414454903371374
+Final distance from goal: 0.2641027048324605 meters
+Total change in yaw:  386.861 degrees
+Change in yaw per second: 10.579 deg/s
+
+secure500-2000-1
+Navigation time: 37.6825581 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.26%
+Average x localization error: 0.00097380526179816
+Average y localization error: 0.000231447871090591
+Final distance from goal: 0.23914512193673707 meters
+Total change in yaw:  387.870 degrees
+Change in yaw per second: 10.293 deg/s
+
+secure500-2000-2
+Navigation time: 31.814983 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.00%
+Average x localization error: 0.0010874614851839205
+Average y localization error: 0.00025246851742486527
+Final distance from goal: 0.24257126981009677 meters
+Total change in yaw:  379.659 degrees
+Change in yaw per second: 11.933 deg/s
+
+secure500-2000-3
+Navigation time: 19.8669383 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.45%
+Average x localization error: 0.0015768654825904496
+Average y localization error: 0.0002410408076160021
+Final distance from goal: 1.1386063066277345 meters
+Total change in yaw:  332.373 degrees
+Change in yaw per second: 16.730 deg/s
+
+secure2500-4000
+Navigation time: 33.6684705 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.44%
+Average x localization error: 0.0011117178773618651
+Average y localization error: 0.0002370530731463615
+Final distance from goal: 0.2330311934258901 meters
+Total change in yaw:  388.351 degrees
+Change in yaw per second: 11.535 deg/s
+
+secure2500-4000-1
+Navigation time: 32.916659 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.88%
+Average x localization error: 0.0009788750805572546
+Average y localization error: 0.00023197604538057793
+Final distance from goal: 0.2447646863941131 meters
+Total change in yaw:  378.519 degrees
+Change in yaw per second: 11.499 deg/s
+
+secure2500-4000-2
+Navigation time: 31.7256858 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.96%
+Average x localization error: 0.0009329746533116382
+Average y localization error: 0.00022506130790496973
+Final distance from goal: 0.25150953009071 meters
+Total change in yaw:  379.928 degrees
+Change in yaw per second: 11.975 deg/s
+
+secure2500-4000-3
+Navigation time: 34.5173818 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.25%
+Average x localization error: 0.000968057942410384
+Average y localization error: 0.00023943210012191492
+Final distance from goal: 0.2415187669252366 meters
+Total change in yaw:  372.996 degrees
+Change in yaw per second: 10.806 deg/s
+
+secure2500-4000-4
+Navigation time: 31.7204721 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.56%
+Average x localization error: 0.001060973324891982
+Average y localization error: 0.00025512605065146343
+Final distance from goal: 0.24039228957637984 meters
+Total change in yaw:  390.156 degrees
+Change in yaw per second: 12.300 deg/s
+
+secure4500-6000
+Navigation time: 35.2868494 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.70%
+Average x localization error: 0.0010512471875582534
+Average y localization error: 0.00022320253559442865
+Final distance from goal: 0.25711041678877383 meters
+Total change in yaw:  383.309 degrees
+Change in yaw per second: 10.863 deg/s
+
+secure4500-6000-1
+Navigation time: 33.9183328 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.52%
+Average x localization error: 0.0009700978479079747
+Average y localization error: 0.00027551127943390395
+Final distance from goal: 0.23975011464332022 meters
+Total change in yaw:  375.620 degrees
+Change in yaw per second: 11.074 deg/s
+
+secure4500-6000-2
+Navigation time: 37.7167037 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.41%
+Average x localization error: 0.0009539714128577147
+Average y localization error: 0.00022307039469840223
+Final distance from goal: 0.24443856345300352 meters
+Total change in yaw:  372.325 degrees
+Change in yaw per second: 9.872 deg/s
+
+secure4500-6000-3
+Navigation time: 10.4506121 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.35%
+Average x localization error: 0.0024767518872825635
+Average y localization error: 0.00022412391304828087
+Final distance from goal: 2.1773278128572477 meters
+Total change in yaw:  169.424 degrees
+Change in yaw per second: 16.212 deg/s
+
+secure4500-6000-4
+Navigation time: 12.2490301 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.12%
+Average x localization error: 0.0018509588438808341
+Average y localization error: 0.00025430314984698654
+Final distance from goal: 2.187542482348554 meters
+Total change in yaw:  166.444 degrees
+Change in yaw per second: 13.588 deg/s
+
+secure6500-8000
+Navigation time: 31.9682627 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 81.74%
+Average x localization error: 0.001147407016261742
+Average y localization error: 0.0002346028771607109
+Final distance from goal: 0.46624569758677725 meters
+Total change in yaw:  382.965 degrees
+Change in yaw per second: 11.980 deg/s
+
+secure6500-8000-1
+Navigation time: 33.7174009 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.69%
+Average x localization error: 0.0010174208237842986
+Average y localization error: 0.0002373081038068826
+Final distance from goal: 0.23798495369149544 meters
+Total change in yaw:  383.080 degrees
+Change in yaw per second: 11.361 deg/s
+
+secure6500-8000-2
+Navigation time: 28.7173731 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 46.38%
+Average x localization error: 0.0009681247267455924
+Average y localization error: 0.00020362667711032952
+Final distance from goal: 0.2559716510629709 meters
+Total change in yaw:  381.762 degrees
+Change in yaw per second: 13.294 deg/s
+
+secure6500-8000-3
+Navigation time: 29.218832 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.64%
+Average x localization error: 0.0009993892802103365
+Average y localization error: 0.00024417075414397203
+Final distance from goal: 0.24518664220577135 meters
+Total change in yaw:  382.449 degrees
+Change in yaw per second: 13.089 deg/s
+
+secure6500-8000-4
+Navigation time: 31.3168149 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 56.01%
+Average x localization error: 0.0010043144101086377
+Average y localization error: 0.0002658525731925633
+Final distance from goal: 0.24524413638674558 meters
+Total change in yaw:  377.579 degrees
+Change in yaw per second: 12.057 deg/s
+
+secure8500-10000
+Navigation time: 33.2719219 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.94%
+Average x localization error: 0.0009557777208618518
+Average y localization error: 0.00021779003477350966
+Final distance from goal: 0.25872698443537384 meters
+Total change in yaw:  365.662 degrees
+Change in yaw per second: 10.990 deg/s
+
+secure8500-10000-1
+Navigation time: 34.5687956 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.13%
+Average x localization error: 0.005148090710626065
+Average y localization error: 0.001408142552540699
+Final distance from goal: 0.25477764466607355 meters
+Total change in yaw:  380.215 degrees
+Change in yaw per second: 10.999 deg/s
+
+secure8500-10000-2
+Navigation time: 34.3848134 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.98%
+Average x localization error: 0.000980820577472113
+Average y localization error: 0.00023166531771908583
+Final distance from goal: 0.24982059325969355 meters
+Total change in yaw:  386.116 degrees
+Change in yaw per second: 11.229 deg/s
+
+secure8500-10000-3
+Navigation time: 28.7233007 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 48.82%
+Average x localization error: 0.0010840694050273994
+Average y localization error: 0.00019793967427872837
+Final distance from goal: 0.24159200506164996 meters
+Total change in yaw:  383.022 degrees
+Change in yaw per second: 13.335 deg/s
+
+secure8500-10000-4
+Navigation time: 12.3163842 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.54%
+Average x localization error: 0.00231601832083453
+Average y localization error: 0.00021617825059273095
+Final distance from goal: 2.1834805934678583 meters
+Total change in yaw:  166.731 degrees
+Change in yaw per second: 13.537 deg/s
+
+secure10500-12000
+Navigation time: 2.7191816 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.95%
+Average x localization error: 0.0015787272455910276
+Average y localization error: 0.00017310920668104737
+Final distance from goal: 2.356133875177246 meters
+Total change in yaw:  113.446 degrees
+Change in yaw per second: 41.721 deg/s
+
+secure10500-12000-1
+Navigation time: 34.0186798 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.98%
+Average x localization error: 0.0010862912067209978
+Average y localization error: 0.00023653945243205126
+Final distance from goal: 0.2526362976624233 meters
+Total change in yaw:  378.828 degrees
+Change in yaw per second: 11.136 deg/s
+
+secure10500-12000-2
+Navigation time: 38.5843348 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 90.67%
+Average x localization error: 0.0009903396340635456
+Average y localization error: 0.00022983919502826995
+Final distance from goal: 0.24056398540447163 meters
+Total change in yaw:  378.267 degrees
+Change in yaw per second: 9.804 deg/s
+
+secure10500-12000-3
+Navigation time: 33.8181881 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.74%
+Average x localization error: 0.0010211860218096156
+Average y localization error: 0.0002330970171926704
+Final distance from goal: 0.25728940930084654 meters
+Total change in yaw:  374.840 degrees
+Change in yaw per second: 11.084 deg/s
+
+secure10500-12000-4
+Navigation time: 32.7348129 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.14%
+Average x localization error: 0.0010468979986972121
+Average y localization error: 0.00022798432979426251
+Final distance from goal: 0.24429756902854563 meters
+Total change in yaw:  380.616 degrees
+Change in yaw per second: 11.627 deg/s
+
+secure12500-14000
+Navigation time: 32.7298126 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.89%
+Average x localization error: 0.0008871523387099448
+Average y localization error: 0.00024888220113074636
+Final distance from goal: 0.2604061214800503 meters
+Total change in yaw:  378.209 degrees
+Change in yaw per second: 11.556 deg/s
+
+secure12500-14000-1
+Navigation time: 36.0158974 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.61%
+Average x localization error: 0.0012061684686440434
+Average y localization error: 0.00022775857006163442
+Final distance from goal: 0.2548347050008973 meters
+Total change in yaw:  387.755 degrees
+Change in yaw per second: 10.766 deg/s
+
+secure12500-14000-2
+Navigation time: 34.9184707 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.28%
+Average x localization error: 0.0009978677699053345
+Average y localization error: 0.0002476448464126412
+Final distance from goal: 0.2392731484068428 meters
+Total change in yaw:  387.755 degrees
+Change in yaw per second: 11.105 deg/s
+
+secure12500-14000-3
+Navigation time: 37.2331708 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.37%
+Average x localization error: 0.0010008870753982616
+Average y localization error: 0.00025657810152544987
+Final distance from goal: 0.24245698075548283 meters
+Total change in yaw:  380.788 degrees
+Change in yaw per second: 10.227 deg/s
+
+secure12500-14000-4
+Navigation time: 35.6430624 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.69%
+Average x localization error: 0.0010809788500983316
+Average y localization error: 0.00024211190987846788
+Final distance from goal: 0.23667565800840626 meters
+Total change in yaw:  391.668 degrees
+Change in yaw per second: 10.989 deg/s
+
+secure14500-16000
+Navigation time: 0.1558338 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.77%
+Average x localization error: 0.001859865859110077
+Average y localization error: 0.000209839731625221
+Final distance from goal: 2.342698061693239 meters
+Total change in yaw:  92.246 degrees
+Change in yaw per second: 591.952 deg/s
+
+secure14500-16000-1
+Navigation time: 28.7841905 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 52.74%
+Average x localization error: 0.0010272093832089041
+Average y localization error: 0.00024200081950414236
+Final distance from goal: 0.2571894999947895 meters
+Total change in yaw:  373.935 degrees
+Change in yaw per second: 12.991 deg/s
+
+secure14500-16000-2
+Navigation time: 34.7129354 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.33%
+Average x localization error: 0.0010057048096570583
+Average y localization error: 0.00023154592907856876
+Final distance from goal: 0.23938489992394366 meters
+Total change in yaw:  375.889 degrees
+Change in yaw per second: 10.828 deg/s
+
+secure14500-16000-3
+Navigation time: 32.7697154 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.73%
+Average x localization error: 0.0009859593555326136
+Average y localization error: 0.0002485669242740742
+Final distance from goal: 0.25887574290731385 meters
+Total change in yaw:  385.715 degrees
+Change in yaw per second: 11.770 deg/s
+
+secure14500-16000-4
+Navigation time: 37.6206594 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 90.84%
+Average x localization error: 0.0010483009711234567
+Average y localization error: 0.00024098222747642278
+Final distance from goal: 0.26286667973866606 meters
+Total change in yaw:  369.902 degrees
+Change in yaw per second: 9.832 deg/s
+
+secure16500-18000
+Navigation time: 11.7016191 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.71%
+Average x localization error: 0.0023006259668243243
+Average y localization error: 0.0002281643786101529
+Final distance from goal: 1.9853512550729222 meters
+Total change in yaw:  227.407 degrees
+Change in yaw per second: 19.434 deg/s
+
+secure16500-18000-1
+Navigation time: 20.018103 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.19%
+Average x localization error: 0.0012743019035946898
+Average y localization error: 0.00023697594266241533
+Final distance from goal: 1.1433022061505544 meters
+Total change in yaw:  340.910 degrees
+Change in yaw per second: 17.030 deg/s
+
+secure16500-18000-2
+Navigation time: 33.6350345 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.22%
+Average x localization error: 0.0010957235730288805
+Average y localization error: 0.0002363407709870464
+Final distance from goal: 0.2550482863887745 meters
+Total change in yaw:  381.722 degrees
+Change in yaw per second: 11.349 deg/s
+
+secure16500-18000-3
+Navigation time: 31.2679522 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.09%
+Average x localization error: 0.0010220705474081027
+Average y localization error: 0.0002541259649354056
+Final distance from goal: 0.3074514777823505 meters
+Total change in yaw:  373.110 degrees
+Change in yaw per second: 11.933 deg/s
+
+secure16500-18000-4
+Navigation time: 33.8179588 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.86%
+Average x localization error: 0.0009368631055775015
+Average y localization error: 0.0002377962207846938
+Final distance from goal: 0.24351914803295524 meters
+Total change in yaw:  388.471 degrees
+Change in yaw per second: 11.487 deg/s
+
+secure18500-20000
+Navigation time: 36.3190932 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.63%
+Average x localization error: 0.0010814574113908893
+Average y localization error: 0.00025267789344262265
+Final distance from goal: 0.24449874373564376 meters
+Total change in yaw:  386.683 degrees
+Change in yaw per second: 10.647 deg/s
+
+secure18500-20000-1
+Navigation time: 36.2675602 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.04%
+Average x localization error: 0.0009813045929065187
+Average y localization error: 0.0002061047065730364
+Final distance from goal: 0.24061418049912892 meters
+Total change in yaw:  381.189 degrees
+Change in yaw per second: 10.510 deg/s
+
+secure18500-20000-2
+Navigation time: 27.4159759 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.26%
+Average x localization error: 0.0012505903491016063
+Average y localization error: 0.00021571178374283015
+Final distance from goal: 1.140606381365174 meters
+Total change in yaw:  357.755 degrees
+Change in yaw per second: 13.049 deg/s
+
+secure18500-20000-3
+Navigation time: 33.7716228 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.51%
+Average x localization error: 0.001070383611048093
+Average y localization error: 0.00023643973845043065
+Final distance from goal: 0.2561899002945093 meters
+Total change in yaw:  384.231 degrees
+Change in yaw per second: 11.377 deg/s
+
+secure18500-20000-4
+Navigation time: 32.7183646 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.82%
+Average x localization error: 0.001074204647504124
+Average y localization error: 0.00024383674744957233
+Final distance from goal: 0.26020421055760484 meters
+Total change in yaw:  375.912 degrees
+Change in yaw per second: 11.489 deg/s
+
+secure20500-22000
+Navigation time: 33.5680786 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.51%
+Average x localization error: 0.0009534903663047895
+Average y localization error: 0.0002148777430477702
+Final distance from goal: 0.25876445972033363 meters
+Total change in yaw:  387.950 degrees
+Change in yaw per second: 11.557 deg/s
+
+secure20500-22000-1
+Navigation time: 35.8879617 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.62%
+Average x localization error: 0.0009922668436837642
+Average y localization error: 0.00021556056479002286
+Final distance from goal: 0.25846903843896085 meters
+Total change in yaw:  374.944 degrees
+Change in yaw per second: 10.448 deg/s
+
+secure20500-22000-2
+Navigation time: 37.8673252 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.50%
+Average x localization error: 0.000976921781837355
+Average y localization error: 0.0002383972931727926
+Final distance from goal: 0.25429773322229976 meters
+Total change in yaw:  393.192 degrees
+Change in yaw per second: 10.383 deg/s
+
+secure20500-22000-3
+Navigation time: 28.8690871 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 52.33%
+Average x localization error: 0.0010386623639649926
+Average y localization error: 0.00023269229243896424
+Final distance from goal: 0.2512276713512949 meters
+Total change in yaw:  378.725 degrees
+Change in yaw per second: 13.119 deg/s
+
+secure20500-22000-4
+Navigation time: 33.6175116 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.69%
+Average x localization error: 0.0010035949430018491
+Average y localization error: 0.0002602616346969214
+Final distance from goal: 0.2476924688357893 meters
+Total change in yaw:  381.831 degrees
+Change in yaw per second: 11.358 deg/s
+
+secure22500-24000
+Navigation time: 37.2165835 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.58%
+Average x localization error: 0.0010319131492197544
+Average y localization error: 0.00025429911833605107
+Final distance from goal: 0.2568295141659229 meters
+Total change in yaw:  383.223 degrees
+Change in yaw per second: 10.297 deg/s
+
+secure22500-24000-2
+Navigation time: 36.6167235 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.12%
+Average x localization error: 0.0009701837802835528
+Average y localization error: 0.00022094292392312956
+Final distance from goal: 0.2524384894085267 meters
+Total change in yaw:  387.732 degrees
+Change in yaw per second: 10.589 deg/s
+
+secure22500-24000-3
+Navigation time: 36.2920684 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.52%
+Average x localization error: 0.0010719916708573538
+Average y localization error: 0.00024325811579813786
+Final distance from goal: 0.25239581105800074 meters
+Total change in yaw:  381.475 degrees
+Change in yaw per second: 10.511 deg/s
+
+secure22500-24000-4
+Navigation time: 34.720516 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.73%
+Average x localization error: 0.000992578950959404
+Average y localization error: 0.0002676594363851907
+Final distance from goal: 0.25439939672376005 meters
+Total change in yaw:  373.626 degrees
+Change in yaw per second: 10.761 deg/s
+
+secure24500-26000
+Navigation time: 36.468232 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.72%
+Average x localization error: 0.0009696099381847092
+Average y localization error: 0.0002248606481357962
+Final distance from goal: 0.2555783171178464 meters
+Total change in yaw:  388.368 degrees
+Change in yaw per second: 10.649 deg/s
+
+secure24500-26000-1
+Navigation time: 37.0831771 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.85%
+Average x localization error: 0.001008714973966805
+Average y localization error: 0.00024156205240553552
+Final distance from goal: 0.25442179540436893 meters
+Total change in yaw:  388.689 degrees
+Change in yaw per second: 10.482 deg/s
+
+secure24500-26000-2
+Navigation time: 29.4675746 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 55.66%
+Average x localization error: 0.0009464098081675164
+Average y localization error: 0.00025364675744917023
+Final distance from goal: 0.2614656393790938 meters
+Total change in yaw:  377.178 degrees
+Change in yaw per second: 12.800 deg/s
+
+secure24500-26000-3
+Navigation time: 31.3182673 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.05%
+Average x localization error: 0.0009926445648472293
+Average y localization error: 0.00024729275595518157
+Final distance from goal: 0.2571094767368365 meters
+Total change in yaw:  378.255 degrees
+Change in yaw per second: 12.078 deg/s
+
+secure24500-26000-4
+Navigation time: 37.619091 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.49%
+Average x localization error: 0.0009161361560833872
+Average y localization error: 0.00026524578593610276
+Final distance from goal: 0.25490090409142885 meters
+Total change in yaw:  373.041 degrees
+Change in yaw per second: 9.916 deg/s
+
+secure26500-28000
+Navigation time: 2.751768 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 88.73%
+Average x localization error: 0.0025068941033567654
+Average y localization error: 0.00026285027406150116
+Final distance from goal: 2.330563963142869 meters
+Total change in yaw:  118.029 degrees
+Change in yaw per second: 42.892 deg/s
+
+secure26500-28000-1
+Navigation time: 37.1670276 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.91%
+Average x localization error: 0.0010933275446252024
+Average y localization error: 0.00019995510711081895
+Final distance from goal: 0.2554436918079227 meters
+Total change in yaw:  379.539 degrees
+Change in yaw per second: 10.212 deg/s
+
+secure26500-28000-2
+Navigation time: 46.0666515 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.87%
+Average x localization error: 0.0008702056430515651
+Average y localization error: 0.00027781740746037666
+Final distance from goal: 0.2506127026561208 meters
+Total change in yaw:  544.264 degrees
+Change in yaw per second: 11.815 deg/s
+
+secure26500-28000-3
+Navigation time: 45.4296758 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 83.90%
+Average x localization error: 0.0013986996631821847
+Average y localization error: 0.00024532038916936935
+Final distance from goal: 0.25634127427764475 meters
+Total change in yaw:  578.000 degrees
+Change in yaw per second: 12.723 deg/s
+
+secure26500-28000-4
+Navigation time: 35.5177551 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.28%
+Average x localization error: 0.0009103611881331419
+Average y localization error: 0.0002517817011396373
+Final distance from goal: 0.257866779448996 meters
+Total change in yaw:  386.483 degrees
+Change in yaw per second: 10.881 deg/s
+
+secure28500-30000
+Navigation time: 39.8827248 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.41%
+Average x localization error: 0.0010948705814791877
+Average y localization error: 0.00023844581066213535
+Final distance from goal: 0.2583791045681245 meters
+Total change in yaw:  383.807 degrees
+Change in yaw per second: 9.623 deg/s
+
+secure28500-30000-1
+Navigation time: 90.5973151 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.10%
+Average x localization error: 0.0009268754439227972
+Average y localization error: 0.0003022012429630985
+Final distance from goal: 1.0823314823791756 meters
+Total change in yaw:  1277.409 degrees
+Change in yaw per second: 14.100 deg/s
+
+secure28500-30000-2
+Navigation time: 28.0175179 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 49.12%
+Average x localization error: 0.0010026756547279524
+Average y localization error: 0.00021757339385295704
+Final distance from goal: 0.25204945594960587 meters
+Total change in yaw:  370.188 degrees
+Change in yaw per second: 13.213 deg/s
+
+secure28500-30000-3
+Navigation time: 1.6498469 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 86.50%
+Average x localization error: 0.002134261966018263
+Average y localization error: 0.00019905824724679265
+Final distance from goal: 2.3504238359186345 meters
+Total change in yaw:  89.954 degrees
+Change in yaw per second: 54.523 deg/s
+
+secure28500-30000-4
+Navigation time: 37.4174357 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.79%
+Average x localization error: 0.0009866645521688776
+Average y localization error: 0.00021945371044503612
+Final distance from goal: 0.2503260535143151 meters
+Total change in yaw:  384.988 degrees
+Change in yaw per second: 10.289 deg/s
+
+secure30500-32000
+Navigation time: 38.7193284 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.31%
+Average x localization error: 0.002296533046894691
+Average y localization error: 0.00023712124572575717
+Final distance from goal: 1.4324529956092154 meters
+Total change in yaw:  631.285 degrees
+Change in yaw per second: 16.304 deg/s
+
+secure30500-32000-1
+Navigation time: 60.0354278 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.48%
+Average x localization error: 0.002238021840658146
+Average y localization error: 0.00021154488155154802
+Final distance from goal: 0.26060374115160606 meters
+Total change in yaw:  763.065 degrees
+Change in yaw per second: 12.710 deg/s
+
+secure30500-32000-2
+Navigation time: 34.7681724 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.24%
+Average x localization error: 0.001062368944675542
+Average y localization error: 0.00022107741437869802
+Final distance from goal: 0.25701398257917574 meters
+Total change in yaw:  387.067 degrees
+Change in yaw per second: 11.133 deg/s
+
+secure30500-32000-3
+Navigation time: 57.9835154 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.43%
+Average x localization error: 0.0015541196421433806
+Average y localization error: 0.00024082084284250717
+Final distance from goal: 0.25647849602628014 meters
+Total change in yaw:  751.721 degrees
+Change in yaw per second: 12.964 deg/s
+
+secure30500-32000-4
+Navigation time: 61.4835737 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.54%
+Average x localization error: 0.0011683946196449236
+Average y localization error: 0.00022683649461655692
+Final distance from goal: 0.25331654364130257 meters
+Total change in yaw:  787.685 degrees
+Change in yaw per second: 12.811 deg/s
+
+secure32500-34000-1
+Navigation time: 0.3526455 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.83%
+Average x localization error: 0.0014688990089990713
+Average y localization error: 0.00010457049675856734
+Final distance from goal: 2.3935147849295597 meters
+Total change in yaw:  67.036 degrees
+Change in yaw per second: 190.095 deg/s
+
+secure32500-34000-2
+Navigation time: 37.8893425 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.94%
+Average x localization error: 0.0010306485069805581
+Average y localization error: 0.0002740907660654817
+Final distance from goal: 0.25464719322951007 meters
+Total change in yaw:  386.815 degrees
+Change in yaw per second: 10.209 deg/s
+
+secure32500-34000-3
+Navigation time: 49.8326555 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.07%
+Average x localization error: 0.0007947200163030287
+Average y localization error: 0.000288218637550738
+Final distance from goal: 0.25284322147604843 meters
+Total change in yaw:  565.171 degrees
+Change in yaw per second: 11.341 deg/s
+
+secure32500-34000-4
+Navigation time: 68.8938407 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.87%
+Average x localization error: 0.0016372229909641393
+Average y localization error: 0.00024708415915872456
+Final distance from goal: 2.6961368359250515 meters
+Total change in yaw:  2653.929 degrees
+Change in yaw per second: 38.522 deg/s
+
+secure34500-36000
+Navigation time: 66.4054964 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 90.14%
+Average x localization error: 0.00337206285812454
+Average y localization error: 0.0002346656147648349
+Final distance from goal: 2.4396517678661196 meters
+Total change in yaw:  1831.402 degrees
+Change in yaw per second: 27.579 deg/s
+
+secure34500-36000-2
+Navigation time: 143.324362 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.57%
+Average x localization error: nan
+Average y localization error: nan
+Final distance from goal: 0.9467464598711668 meters
+Total change in yaw:  1117.508 degrees
+Change in yaw per second: 7.797 deg/s
+
+secure34500-36000-3
+Navigation time: 68.082214 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.82%
+Average x localization error: 0.001987828315648625
+Average y localization error: 0.00023864058821851695
+Final distance from goal: 2.5040644687287985 meters
+Total change in yaw:  2917.730 degrees
+Change in yaw per second: 42.856 deg/s
+
+secure36500-38000-1
+Navigation time: 58.3824828 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.42%
+Average x localization error: 0.000681241860857039
+Average y localization error: 0.0002853054441789528
+Final distance from goal: 0.26023626783745657 meters
+Total change in yaw:  716.604 degrees
+Change in yaw per second: 12.274 deg/s
+
+secure36500-38000-2
+Navigation time: 30.7667425 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 60.31%
+Average x localization error: 0.0010558643360812072
+Average y localization error: 0.0002317705047745572
+Final distance from goal: 0.2593411760387462 meters
+Total change in yaw:  384.569 degrees
+Change in yaw per second: 12.500 deg/s
+
+secure36500-38000-3
+Navigation time: 76.8944267 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.50%
+Average x localization error: 0.002256731348167564
+Average y localization error: 0.00020721687876177553
+Final distance from goal: 2.220065798274083 meters
+Total change in yaw:  1893.511 degrees
+Change in yaw per second: 24.625 deg/s
+
+secure36500-38000-4
+Navigation time: 62.3887592 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.41%
+Average x localization error: 0.0021978935706267987
+Average y localization error: 0.00023057329067731002
+Final distance from goal: 0.25061670372164097 meters
+Total change in yaw:  1061.347 degrees
+Change in yaw per second: 17.012 deg/s
+
+secure38500-40000
+Navigation time: 6.8512244 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.10%
+Average x localization error: 0.002454386920412311
+Average y localization error: 0.0002800011729324233
+Final distance from goal: 2.3613213726755125 meters
+Total change in yaw:  144.099 degrees
+Change in yaw per second: 21.033 deg/s
+
+secure38500-40000-1
+Navigation time: 14.9679433 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.32%
+Average x localization error: 0.0022390965848068157
+Average y localization error: 0.00012116801815290902
+Final distance from goal: 2.6124397986730354 meters
+Total change in yaw:  298.511 degrees
+Change in yaw per second: 19.943 deg/s
+
+secure38500-40000-3
+Navigation time: 65.631512 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.72%
+Average x localization error: 0.0020481120129605414
+Average y localization error: 0.00025962010982069313
+Final distance from goal: 2.4931011197033373 meters
+Total change in yaw:  1287.665 degrees
+Change in yaw per second: 19.620 deg/s
+
+
+secure500-2000
+Navigation time: 28.0702199 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 45.03%
+Average x localization error: 0.001073097463630218
+Average y localization error: 0.000251048682060881
+Final distance from goal: 0.2651983921164129 meters
+Total change in yaw:  377.522 degrees
+Change in yaw per second: 13.449 deg/s
+
+secure500-2000-1
+Navigation time: 30.2687435 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 51.22%
+Average x localization error: 0.001045543348185077
+Average y localization error: 0.0002077515378873827
+Final distance from goal: 0.25674390901614913 meters
+Total change in yaw:  383.263 degrees
+Change in yaw per second: 12.662 deg/s
+
+secure500-2000-2
+Navigation time: 12.6035324 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.58%
+Average x localization error: 0.0020226341706382697
+Average y localization error: 0.00017951733046635035
+Final distance from goal: 2.0353553650178644 meters
+Total change in yaw:  185.524 degrees
+Change in yaw per second: 14.720 deg/s
+
+secure500-2000-3
+Navigation time: 36.6171601 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.04%
+Average x localization error: 0.0010430386861907978
+Average y localization error: 0.0002190442317260812
+Final distance from goal: 0.26378751781478166 meters
+Total change in yaw:  377.064 degrees
+Change in yaw per second: 10.297 deg/s
+
+secure500-2000-4
+Navigation time: 30.6668347 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 49.89%
+Average x localization error: 0.0010436625113885158
+Average y localization error: 0.0002174848278877537
+Final distance from goal: 0.2631704611914829 meters
+Total change in yaw:  382.163 degrees
+Change in yaw per second: 12.462 deg/s
+
+secure2500-4000
+Navigation time: 35.219866 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.83%
+Average x localization error: 0.0009290707738435916
+Average y localization error: 0.00022649588054813474
+Final distance from goal: 0.25358017045863973 meters
+Total change in yaw:  384.879 degrees
+Change in yaw per second: 10.928 deg/s
+
+secure2500-4000-1
+Navigation time: 34.5683515 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.57%
+Average x localization error: 0.0009307614944305856
+Average y localization error: 0.00022732221950420376
+Final distance from goal: 0.2417808391251774 meters
+Total change in yaw:  375.242 degrees
+Change in yaw per second: 10.855 deg/s
+
+secure2500-4000-2
+Navigation time: 1.651547 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.52%
+Average x localization error: 0.0023982909431515265
+Average y localization error: 0.00023609026583789884
+Final distance from goal: 2.3353282207627846 meters
+Total change in yaw:  91.100 degrees
+Change in yaw per second: 55.161 deg/s
+
+secure2500-4000-3
+Navigation time: 16.6673783 seconds
+Control loop missed desired rate 6 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.59%
+Average x localization error: 0.0018350912370678418
+Average y localization error: 0.0002238438175754041
+Final distance from goal: 1.313479108597826 meters
+Total change in yaw:  267.800 degrees
+Change in yaw per second: 16.067 deg/s
+
+secure2500-4000-4
+Navigation time: 32.219887 seconds
+Control loop missed desired rate 9 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.33%
+Average x localization error: 0.000976593941387363
+Average y localization error: 0.0002292871367125096
+Final distance from goal: 0.24319003127701647 meters
+Total change in yaw:  386.689 degrees
+Change in yaw per second: 12.002 deg/s
+
+secure4500-6000
+Navigation time: 37.4333044 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 91.21%
+Average x localization error: 0.0010884800628881523
+Average y localization error: 0.0002240032457830602
+Final distance from goal: 0.2637055436915836 meters
+Total change in yaw:  382.432 degrees
+Change in yaw per second: 10.216 deg/s
+
+secure4500-6000-1
+Navigation time: 35.0687539 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.92%
+Average x localization error: 0.0010334819137594916
+Average y localization error: 0.00022373197748273512
+Final distance from goal: 0.24329015803783963 meters
+Total change in yaw:  386.305 degrees
+Change in yaw per second: 11.016 deg/s
+
+secure4500-6000-3
+Navigation time: 23.8670941 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.06%
+Average x localization error: 0.0014199371277039817
+Average y localization error: 0.00026083616717566195
+Final distance from goal: 1.1264795522633209 meters
+Total change in yaw:  342.571 degrees
+Change in yaw per second: 14.353 deg/s
+
+secure4500-6000-4
+Navigation time: 26.2171892 seconds
+Control loop missed desired rate 8 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.92%
+Average x localization error: 0.0011921126144667203
+Average y localization error: 0.00025208260671588255
+Final distance from goal: 0.8784780012146045 meters
+Total change in yaw:  354.374 degrees
+Change in yaw per second: 13.517 deg/s
+
+secure6500-8000
+Navigation time: 6.3156541 seconds
+Control loop missed desired rate 6 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.36%
+Average x localization error: 0.0016229004823085076
+Average y localization error: 0.00017410118642724681
+Final distance from goal: 2.382521038035337 meters
+Total change in yaw:  155.787 degrees
+Change in yaw per second: 24.667 deg/s
+
+secure6500-8000-1
+Navigation time: 15.0554596 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.19%
+Average x localization error: 0.001823306245220628
+Average y localization error: 0.0002075526798930604
+Final distance from goal: 1.526321701740157 meters
+Total change in yaw:  259.092 degrees
+Change in yaw per second: 17.209 deg/s
+
+secure6500-8000-2
+Navigation time: 33.6170418 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.72%
+Average x localization error: 0.0009517803724743499
+Average y localization error: 0.00023892017189831874
+Final distance from goal: 0.2416975697031837 meters
+Total change in yaw:  383.733 degrees
+Change in yaw per second: 11.415 deg/s
+
+secure6500-8000-3
+Navigation time: 37.7233474 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.07%
+Average x localization error: 0.0008479832522635093
+Average y localization error: 0.00024208318891226783
+Final distance from goal: 0.2428343662313722 meters
+Total change in yaw:  382.736 degrees
+Change in yaw per second: 10.146 deg/s
+
+secure6500-8000-4
+Navigation time: 33.4182383 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.34%
+Average x localization error: 0.0009699171355501147
+Average y localization error: 0.00025557842958726654
+Final distance from goal: 0.2410181665464373 meters
+Total change in yaw:  386.523 degrees
+Change in yaw per second: 11.566 deg/s
+
+secure8500-10000
+Navigation time: 35.7165151 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.73%
+Average x localization error: 0.0009634931389569287
+Average y localization error: 0.00019842191762762891
+Final distance from goal: 0.24189889041829274 meters
+Total change in yaw:  384.638 degrees
+Change in yaw per second: 10.769 deg/s
+
+secure8500-10000-1
+Navigation time: 32.9628662 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.80%
+Average x localization error: 0.0009537966958673553
+Average y localization error: 0.0002607921475165547
+Final distance from goal: 0.26356386207848226 meters
+Total change in yaw:  380.845 degrees
+Change in yaw per second: 11.554 deg/s
+
+secure8500-10000-2
+Navigation time: 33.8206706 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.26%
+Average x localization error: 0.0009779703480974266
+Average y localization error: 0.00023033166330502954
+Final distance from goal: 0.24910223557184938 meters
+Total change in yaw:  375.173 degrees
+Change in yaw per second: 11.093 deg/s
+
+secure8500-10000-3
+Navigation time: 33.0022058 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.44%
+Average x localization error: 0.0011385968144396704
+Average y localization error: 0.00022511688415296187
+Final distance from goal: 0.2551122477236994 meters
+Total change in yaw:  372.251 degrees
+Change in yaw per second: 11.280 deg/s
+
+secure8500-10000-4
+Navigation time: 15.9687815 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.56%
+Average x localization error: 0.0014888692161882558
+Average y localization error: 0.0002199264008319728
+Final distance from goal: 1.2022219178177318 meters
+Total change in yaw:  271.811 degrees
+Change in yaw per second: 17.021 deg/s
+
+secure10500-12000
+Navigation time: 10.7116658 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.73%
+Average x localization error: 0.0020772257379628087
+Average y localization error: 0.00025339310631132414
+Final distance from goal: 2.1766715662278955 meters
+Total change in yaw:  168.450 degrees
+Change in yaw per second: 15.726 deg/s
+
+secure10500-12000-1
+Navigation time: 13.2680616 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.87%
+Average x localization error: 0.0018284683329007217
+Average y localization error: 0.0002578497065686365
+Final distance from goal: 1.6035960951492163 meters
+Total change in yaw:  259.894 degrees
+Change in yaw per second: 19.588 deg/s
+
+secure10500-12000-2
+Navigation time: 32.0685246 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.12%
+Average x localization error: 0.001035073443956995
+Average y localization error: 0.00024680959928702226
+Final distance from goal: 0.2452622410938533 meters
+Total change in yaw:  384.248 degrees
+Change in yaw per second: 11.982 deg/s
+
+secure10500-12000-3
+Navigation time: 38.0672377 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 91.89%
+Average x localization error: 0.0009761807707702816
+Average y localization error: 0.00023722606930025032
+Final distance from goal: 0.2424738119268131 meters
+Total change in yaw:  381.292 degrees
+Change in yaw per second: 10.016 deg/s
+
+secure10500-12000-4
+Navigation time: 35.919123 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 91.54%
+Average x localization error: 0.0010123859696253728
+Average y localization error: 0.00019709349042433834
+Final distance from goal: 0.25892436957545784 meters
+Total change in yaw:  371.620 degrees
+Change in yaw per second: 10.346 deg/s
+
+secure12500-14000
+Navigation time: 134.3318694 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.75%
+Average x localization error: nan
+Average y localization error: nan
+Final distance from goal: 2.1779767195052138 meters
+Total change in yaw:  341.254 degrees
+Change in yaw per second: 2.540 deg/s
+
+secure12500-14000-1
+Navigation time: 38.7165602 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.21%
+Average x localization error: 0.0009694657658250163
+Average y localization error: 0.0002230663381552552
+Final distance from goal: 0.23694291272484322 meters
+Total change in yaw:  378.651 degrees
+Change in yaw per second: 9.780 deg/s
+
+secure12500-14000-2
+Navigation time: 33.017318 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.35%
+Average x localization error: 0.0010453156233570797
+Average y localization error: 0.00024166827790068465
+Final distance from goal: 0.24998562968954752 meters
+Total change in yaw:  383.349 degrees
+Change in yaw per second: 11.611 deg/s
+
+secure12500-14000-3
+Navigation time: 36.1187527 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.89%
+Average x localization error: 0.0009642209721382019
+Average y localization error: 0.00021402611184559108
+Final distance from goal: 0.2314723029770842 meters
+Total change in yaw:  377.298 degrees
+Change in yaw per second: 10.446 deg/s
+
+secure14500-16000
+Navigation time: 9.6207843 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.77%
+Average x localization error: 0.002049046037712784
+Average y localization error: 0.00022590580330502183
+Final distance from goal: 1.9997420910315007 meters
+Total change in yaw:  210.104 degrees
+Change in yaw per second: 21.839 deg/s
+
+secure14500-16000-1
+Navigation time: 13.4170037 seconds
+Control loop missed desired rate 6 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.24%
+Average x localization error: 0.0019358241288421653
+Average y localization error: 0.00021129781852409298
+Final distance from goal: 1.755958830375814 meters
+Total change in yaw:  225.001 degrees
+Change in yaw per second: 16.770 deg/s
+
+secure14500-16000-2
+Navigation time: 37.3333112 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 90.44%
+Average x localization error: 0.0009566857842753496
+Average y localization error: 0.00023750289869941326
+Final distance from goal: 0.2561279388333748 meters
+Total change in yaw:  381.349 degrees
+Change in yaw per second: 10.215 deg/s
+
+secure14500-16000-3
+Navigation time: 35.3688551 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.88%
+Average x localization error: 0.0009136577425372129
+Average y localization error: 0.00024524145606638344
+Final distance from goal: 0.2405546004306584 meters
+Total change in yaw:  386.076 degrees
+Change in yaw per second: 10.916 deg/s
+
+secure14500-16000-4
+Navigation time: 36.1665194 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.14%
+Average x localization error: 0.0009082909436440927
+Average y localization error: 0.00026137897276124747
+Final distance from goal: 0.2631489436992046 meters
+Total change in yaw:  386.437 degrees
+Change in yaw per second: 10.685 deg/s
+
+secure16500-18000
+Navigation time: 24.1701702 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.31%
+Average x localization error: 0.0014703812717010262
+Average y localization error: 0.00023491608130775312
+Final distance from goal: 1.1426167508272858 meters
+Total change in yaw:  329.565 degrees
+Change in yaw per second: 13.635 deg/s
+
+secure16500-18000-1
+Navigation time: 35.4190493 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.51%
+Average x localization error: 0.0009175037454223522
+Average y localization error: 0.00022622054437648994
+Final distance from goal: 0.2567956456674574 meters
+Total change in yaw:  392.940 degrees
+Change in yaw per second: 11.094 deg/s
+
+secure16500-18000-2
+Navigation time: 31.4681408 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.37%
+Average x localization error: 0.0010369500484635789
+Average y localization error: 0.0002136478004287943
+Final distance from goal: 0.25642958020443263 meters
+Total change in yaw:  377.883 degrees
+Change in yaw per second: 12.008 deg/s
+
+secure16500-18000-3
+Navigation time: 34.0169191 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.76%
+Average x localization error: 0.0009560253481418644
+Average y localization error: 0.0002304890402569048
+Final distance from goal: 0.23913807391862693 meters
+Total change in yaw:  377.281 degrees
+Change in yaw per second: 11.091 deg/s
+
+secure16500-18000-4
+Navigation time: 32.8186342 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.70%
+Average x localization error: 0.0010834803794189118
+Average y localization error: 0.0002571010129178091
+Final distance from goal: 0.2750924900615333 meters
+Total change in yaw:  376.989 degrees
+Change in yaw per second: 11.487 deg/s
+
+secure18500-20000
+Navigation time: 2.697055 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.74%
+Average x localization error: 0.0019153767512681084
+Average y localization error: 0.0001971416219726275
+Final distance from goal: 2.328299164991535 meters
+Total change in yaw:  89.954 degrees
+Change in yaw per second: 33.353 deg/s
+
+secure18500-20000-1
+Navigation time: 36.543805 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.42%
+Average x localization error: 0.0010161850490705054
+Average y localization error: 0.00023428676929020234
+Final distance from goal: 0.256589015949896 meters
+Total change in yaw:  381.120 degrees
+Change in yaw per second: 10.429 deg/s
+
+secure18500-20000-2
+Navigation time: 34.0174533 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.36%
+Average x localization error: 0.0008857605412172704
+Average y localization error: 0.00025068248097050145
+Final distance from goal: 0.25994567631343757 meters
+Total change in yaw:  385.371 degrees
+Change in yaw per second: 11.329 deg/s
+
+secure18500-20000-3
+Navigation time: 33.5169516 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.73%
+Average x localization error: 0.0010698966932668704
+Average y localization error: 0.0002207789534131991
+Final distance from goal: 0.250001163531429 meters
+Total change in yaw:  376.307 degrees
+Change in yaw per second: 11.227 deg/s
+
+secure18500-20000-4
+Navigation time: 31.4519914 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.58%
+Average x localization error: 0.0009804473138164882
+Average y localization error: 0.0002410869343933779
+Final distance from goal: 0.256259021809274 meters
+Total change in yaw:  375.860 degrees
+Change in yaw per second: 11.950 deg/s
+
+secure20500-22000
+Navigation time: 10.1029072 seconds
+Control loop missed desired rate 7 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 82.41%
+Average x localization error: 0.0019535755299224336
+Average y localization error: 0.0001992119536809075
+Final distance from goal: 2.2472159307181183 meters
+Total change in yaw:  170.570 degrees
+Change in yaw per second: 16.883 deg/s
+
+secure20500-22000-1
+Navigation time: 33.3678596 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 61.06%
+Average x localization error: 0.0010720308727218744
+Average y localization error: 0.00022021370777321143
+Final distance from goal: 0.25958128986001205 meters
+Total change in yaw:  377.579 degrees
+Change in yaw per second: 11.316 deg/s
+
+secure20500-22000-2
+Navigation time: 35.8823776 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.27%
+Average x localization error: 0.0010643638309789335
+Average y localization error: 0.00023273888967185118
+Final distance from goal: 0.23841509872508995 meters
+Total change in yaw:  381.223 degrees
+Change in yaw per second: 10.624 deg/s
+
+secure20500-22000-3
+Navigation time: 34.770598 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.72%
+Average x localization error: 0.00104400072281097
+Average y localization error: 0.00024168094875180897
+Final distance from goal: 0.2527234733393084 meters
+Total change in yaw:  376.548 degrees
+Change in yaw per second: 10.829 deg/s
+
+secure20500-22000-4
+Navigation time: 35.1175044 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.38%
+Average x localization error: 0.0009436154450700094
+Average y localization error: 0.00023523621730330919
+Final distance from goal: 0.2574419902058562 meters
+Total change in yaw:  390.305 degrees
+Change in yaw per second: 11.114 deg/s
+
+secure22500-24000
+Navigation time: 34.6487918 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.01%
+Average x localization error: 0.0009672784966731129
+Average y localization error: 0.00021280127586086097
+Final distance from goal: 0.25343237807363855 meters
+Total change in yaw:  377.671 degrees
+Change in yaw per second: 10.900 deg/s
+
+secure22500-24000-1
+Navigation time: 29.8171687 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 53.50%
+Average x localization error: 0.0011172853475380528
+Average y localization error: 0.00023027836800621794
+Final distance from goal: 0.2585133858639333 meters
+Total change in yaw:  377.121 degrees
+Change in yaw per second: 12.648 deg/s
+
+secure22500-24000-2
+Navigation time: 34.2692233 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.73%
+Average x localization error: 0.0011008019379935951
+Average y localization error: 0.00023373741386428188
+Final distance from goal: 0.25779661599934434 meters
+Total change in yaw:  390.012 degrees
+Change in yaw per second: 11.381 deg/s
+
+secure22500-24000-3
+Navigation time: 38.9343561 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 92.32%
+Average x localization error: 0.0010316875702559144
+Average y localization error: 0.00022288996858256958
+Final distance from goal: 0.25858407295185765 meters
+Total change in yaw:  379.183 degrees
+Change in yaw per second: 9.739 deg/s
+
+secure22500-24000-4
+Navigation time: 33.5183635 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.84%
+Average x localization error: 0.0009851437148307488
+Average y localization error: 0.0002639058927812118
+Final distance from goal: 0.26094166882089076 meters
+Total change in yaw:  374.313 degrees
+Change in yaw per second: 11.167 deg/s
+
+secure24500-26000
+Navigation time: 35.7217526 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.04%
+Average x localization error: 0.0009684316937509405
+Average y localization error: 0.0002523595860821379
+Final distance from goal: 0.2558285049433232 meters
+Total change in yaw:  379.470 degrees
+Change in yaw per second: 10.623 deg/s
+
+secure24500-26000-1
+Navigation time: 29.4193334 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 57.71%
+Average x localization error: 0.0010999610762960233
+Average y localization error: 0.00023881101186553055
+Final distance from goal: 0.25353944560143016 meters
+Total change in yaw:  374.760 degrees
+Change in yaw per second: 12.739 deg/s
+
+secure24500-26000-2
+Navigation time: 10.7392182 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.23%
+Average x localization error: 0.002125936147410807
+Average y localization error: 0.00021791312593725365
+Final distance from goal: 2.1903023816597798 meters
+Total change in yaw:  171.142 degrees
+Change in yaw per second: 15.936 deg/s
+
+secure24500-26000-3
+Navigation time: 28.4181869 seconds
+Control loop missed desired rate 9 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.53%
+Average x localization error: 0.001187161678181117
+Average y localization error: 0.00024379900445693984
+Final distance from goal: 0.7317386827734997 meters
+Total change in yaw:  375.517 degrees
+Change in yaw per second: 13.214 deg/s
+
+secure24500-26000-4
+Navigation time: 38.2663026 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.13%
+Average x localization error: 0.001068840698542865
+Average y localization error: 0.00024093898348366539
+Final distance from goal: 0.2551739806003266 meters
+Total change in yaw:  379.882 degrees
+Change in yaw per second: 9.927 deg/s
+
+secure26500-28000
+Navigation time: 36.3164365 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.57%
+Average x localization error: 0.0010601290939209619
+Average y localization error: 0.0002359321465446386
+Final distance from goal: 0.25697457788768285 meters
+Total change in yaw:  377.178 degrees
+Change in yaw per second: 10.386 deg/s
+
+secure26500-28000-1
+Navigation time: 33.1447464 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.69%
+Average x localization error: 0.001069817928625515
+Average y localization error: 0.00023690460598742863
+Final distance from goal: 0.26086990868188475 meters
+Total change in yaw:  379.304 degrees
+Change in yaw per second: 11.444 deg/s
+
+secure26500-28000-2
+Navigation time: 35.4561368 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.76%
+Average x localization error: 0.0012229355418047294
+Average y localization error: 0.00023101047201150792
+Final distance from goal: 0.23406433603768 meters
+Total change in yaw:  337.472 degrees
+Change in yaw per second: 9.518 deg/s
+
+secure26500-28000-3
+Navigation time: 36.2821252 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.63%
+Average x localization error: 0.0009233057953430495
+Average y localization error: 0.0002586007918994307
+Final distance from goal: 0.24345035730272932 meters
+Total change in yaw:  383.607 degrees
+Change in yaw per second: 10.573 deg/s
+
+secure26500-28000-4
+Navigation time: 34.1561681 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.45%
+Average x localization error: 0.0009520802248727376
+Average y localization error: 0.0002526112015400857
+Final distance from goal: 0.2604128105091156 meters
+Total change in yaw:  389.325 degrees
+Change in yaw per second: 11.398 deg/s
+
+secure28500-30000
+Navigation time: 37.3672399 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.53%
+Average x localization error: 0.0009725574502359772
+Average y localization error: 0.0002448761858000656
+Final distance from goal: 0.2547718208648286 meters
+Total change in yaw:  375.098 degrees
+Change in yaw per second: 10.038 deg/s
+
+secure28500-30000-1
+Navigation time: 11.1614896 seconds
+Control loop missed desired rate 6 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.37%
+Average x localization error: 0.002249567124662523
+Average y localization error: 0.00024085944138793223
+Final distance from goal: 2.1808393871464267 meters
+Total change in yaw:  168.851 degrees
+Change in yaw per second: 15.128 deg/s
+
+secure28500-30000-2
+Navigation time: 31.4173546 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 59.42%
+Average x localization error: 0.0009943583342196505
+Average y localization error: 0.00021915930269492476
+Final distance from goal: 0.24285724929084992 meters
+Total change in yaw:  375.001 degrees
+Change in yaw per second: 11.936 deg/s
+
+secure28500-30000-3
+Navigation time: 53.6348798 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.86%
+Average x localization error: 0.0007439583710844932
+Average y localization error: 0.0002591761679829696
+Final distance from goal: 0.23415036341912449 meters
+Total change in yaw:  558.949 degrees
+Change in yaw per second: 10.421 deg/s
+
+secure28500-30000-4
+Navigation time: 36.1678042 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.09%
+Average x localization error: 0.0009527063610979662
+Average y localization error: 0.00023868992324329872
+Final distance from goal: 0.25812512145458594 meters
+Total change in yaw:  390.963 degrees
+Change in yaw per second: 10.810 deg/s
+
+secure30500-32000-1
+Navigation time: 59.2823956 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.70%
+Average x localization error: 0.0012713197647506818
+Average y localization error: 0.000233786958750852
+Final distance from goal: 0.2342130745600928 meters
+Total change in yaw:  742.834 degrees
+Change in yaw per second: 12.530 deg/s
+
+secure30500-32000-2
+Navigation time: 65.8335191 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.42%
+Average x localization error: 0.0020464141559378116
+Average y localization error: 0.00021511066652187154
+Final distance from goal: 0.26187416180672335 meters
+Total change in yaw:  973.570 degrees
+Change in yaw per second: 14.788 deg/s
+
+secure30500-32000-3
+Navigation time: 19.7175649 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.30%
+Average x localization error: 0.0020872104479252337
+Average y localization error: 0.00018513596315087094
+Final distance from goal: 2.225342737528726 meters
+Total change in yaw:  362.625 degrees
+Change in yaw per second: 18.391 deg/s
+
+secure32500-34000
+Navigation time: 72.1836038 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.01%
+Average x localization error: 0.0012783019234241786
+Average y localization error: 0.00020565224188820311
+Final distance from goal: 0.26257117626970417 meters
+Total change in yaw:  1106.932 degrees
+Change in yaw per second: 15.335 deg/s
+
+secure32500-34000-3
+Navigation time: 92.7991057 seconds
+Control loop missed desired rate 10 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.89%
+Average x localization error: 0.0027191031849869017
+Average y localization error: 0.0002332293780214305
+Final distance from goal: 0.2782114575139089 meters
+Total change in yaw:  1334.304 degrees
+Change in yaw per second: 14.378 deg/s
+
+secure32500-34000-4
+Navigation time: 78.4328731 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 91.91%
+Average x localization error: 0.002065420324254923
+Average y localization error: 0.00027269226664204264
+Final distance from goal: 2.2037032549677362 meters
+Total change in yaw:  1707.300 degrees
+Change in yaw per second: 21.768 deg/s
+
+secure34500-36000
+Navigation time: 69.6324932 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.28%
+Average x localization error: 0.003238007509891987
+Average y localization error: 0.00026132648537577623
+Final distance from goal: 2.2352057945503643 meters
+Total change in yaw:  2145.670 degrees
+Change in yaw per second: 30.814 deg/s
+
+secure34500-36000-1
+Navigation time: 86.3982271 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.54%
+Average x localization error: 0.0007797324508894851
+Average y localization error: 0.000271423990501319
+Final distance from goal: 1.4503163639249992 meters
+Total change in yaw:  1874.260 degrees
+Change in yaw per second: 21.693 deg/s
+
+secure34500-36000-2
+Navigation time: 15.0454969 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.58%
+Average x localization error: 0.0018270374718460174
+Average y localization error: 0.00013164225645594528
+Final distance from goal: 2.6271186833643343 meters
+Total change in yaw:  1002.103 degrees
+Change in yaw per second: 66.605 deg/s
+
+secure34500-36000-3
+Navigation time: 74.3826676 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.75%
+Average x localization error: 0.002020671455121651
+Average y localization error: 0.00020705724705606188
+Final distance from goal: 2.226112187593226 meters
+Total change in yaw:  2199.700 degrees
+Change in yaw per second: 29.573 deg/s
+
+secure34500-36000-4
+Navigation time: 65.6314627 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.20%
+Average x localization error: 0.002711374712927795
+Average y localization error: 0.00026493539742355424
+Final distance from goal: 2.5618863803274836 meters
+Total change in yaw:  2072.045 degrees
+Change in yaw per second: 31.571 deg/s
+
+secure36500-38000
+Navigation time: 1.7058282 seconds
+Control loop missed desired rate 4 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.78%
+Average x localization error: 0.0010955505740788316
+Average y localization error: 0.00010066261852634412
+Final distance from goal: 2.3597491186952553 meters
+Total change in yaw:  88.236 degrees
+Change in yaw per second: 51.726 deg/s
+
+secure36500-38000-1
+Navigation time: 58.4316878 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 91.87%
+Average x localization error: 0.0011142650216418263
+Average y localization error: 0.00016171617467308753
+Final distance from goal: 2.3106296073214594 meters
+Total change in yaw:  1354.816 degrees
+Change in yaw per second: 23.186 deg/s
+
+secure36500-38000-3
+Navigation time: 62.0111193 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.64%
+Average x localization error: 0.0019277955052273098
+Average y localization error: 0.00028280236674192266
+Final distance from goal: 2.58276327914474 meters
+Total change in yaw:  1399.163 degrees
+Change in yaw per second: 22.563 deg/s
+
+secure38500-40000
+Navigation time: 69.582999 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.69%
+Average x localization error: 0.0031039962202990675
+Average y localization error: 0.00023288781657384062
+Final distance from goal: 2.2037980282465592 meters
+Total change in yaw:  1423.456 degrees
+Change in yaw per second: 20.457 deg/s
+
+secure38500-40000-1
+Navigation time: 66.7320066 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.49%
+Average x localization error: 0.0021643915130346134
+Average y localization error: 0.00021258710774628575
+Final distance from goal: 2.6213417421885703 meters
+Total change in yaw:  2050.616 degrees
+Change in yaw per second: 30.729 deg/s
+
+secure38500-40000-3
+Navigation time: 1.8023831 seconds
+Control loop missed desired rate 5 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 89.26%
+Average x localization error: 0.0015699229190430611
+Average y localization error: 0.0001489585099115823
+Final distance from goal: 2.326896253469292 meters
+Total change in yaw:  88.236 degrees
+Change in yaw per second: 48.955 deg/s
+
+secure500-2000
+Navigation time: 36.8667281 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 90.00%
+Average x localization error: 0.0008964688774376324
+Average y localization error: 0.00020680126635253397
+Final distance from goal: 0.24874635355615698 meters
+Total change in yaw:  383.080 degrees
+Change in yaw per second: 10.391 deg/s
+
+secure4500-6000
+Navigation time: 25.8675768 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.16%
+Average x localization error: 0.0012111110028903333
+Average y localization error: 0.00026547644310422026
+Final distance from goal: 1.1345502399034428 meters
+Total change in yaw:  341.999 degrees
+Change in yaw per second: 13.221 deg/s
+
+secure12500-14000
+Navigation time: 34.4136447 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.71%
+Average x localization error: 0.0009924852355308784
+Average y localization error: 0.0002464474755005184
+Final distance from goal: 0.24773488690928697 meters
+Total change in yaw:  387.033 degrees
+Change in yaw per second: 11.246 deg/s
+
+secure22500-24000
+Navigation time: 12.4002342 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 92.13%
+Average x localization error: 0.002409229559117869
+Average y localization error: 0.0002354416138664208
+Final distance from goal: 2.007127989060063 meters
+Total change in yaw:  220.703 degrees
+Change in yaw per second: 17.798 deg/s
+
+secure30500-32000
+Navigation time: 42.9612811 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.12%
+Average x localization error: 0.001351519346017545
+Average y localization error: 0.00025396034163643915
+Final distance from goal: 0.2528071043505415 meters
+Total change in yaw:  570.540 degrees
+Change in yaw per second: 13.280 deg/s
+
+secure30500-32000-1
+Navigation time: 14.5868992 seconds
+Control loop missed desired rate 11 times
+Completed navigation? Dnf
+Turtlebot activated wait 0 times
+Average CPU utilization = 84.34%
+Average x localization error: 0.002188688373659577
+Average y localization error: 0.00022854990945336611
+Final distance from goal: 2.0251835463015135 meters
+Total change in yaw:  199.103 degrees
+Change in yaw per second: 13.649 deg/s
+
+secure32500-34000
+Navigation time: 141.573772 seconds
+Control loop missed desired rate 25 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 70.63%
+Average x localization error: nan
+Average y localization error: nan
+Final distance from goal: 0.5129404364095638 meters
+Total change in yaw:  88.236 degrees
+Change in yaw per second: 0.623 deg/s
+
+secure32500-34000-1
+Navigation time: 7.7582088 seconds
+Control loop missed desired rate 1 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.05%
+Average x localization error: 0.002376310204462516
+Average y localization error: 0.0002777029419840322
+Final distance from goal: 2.276102051664487 meters
+Total change in yaw:  156.074 degrees
+Change in yaw per second: 20.117 deg/s
+
+secure32500-34000-2
+Navigation time: 87.3309258 seconds
+Control loop missed desired rate 3 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.03%
+Average x localization error: 0.0012267374057568995
+Average y localization error: 0.00023500355703837152
+Final distance from goal: 0.2549215407006634 meters
+Total change in yaw:  2384.639 degrees
+Change in yaw per second: 27.306 deg/s
+
+secure34500-36000
+Navigation time: 76.4746298 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 83.15%
+Average x localization error: 0.0033565221917866246
+Average y localization error: 0.00018025570519186938
+Final distance from goal: 2.6190973675429357 meters
+Total change in yaw:  2915.656 degrees
+Change in yaw per second: 38.126 deg/s
+
+secure34500-36000-1
+Navigation time: 70.0815287 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 93.05%
+Average x localization error: 0.0025377420186881443
+Average y localization error: 0.0002727277668105312
+Final distance from goal: 2.2101498544616214 meters
+Total change in yaw:  1366.791 degrees
+Change in yaw per second: 19.503 deg/s
+
+secure36500-38000-1
+Navigation time: 65.6151039 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.16%
+Average x localization error: 0.0016931456084241317
+Average y localization error: 0.0002794089697794734
+Final distance from goal: 2.705746962399019 meters
+Total change in yaw:  1425.175 degrees
+Change in yaw per second: 21.720 deg/s
+
+secure36500-38000-2
+Navigation time: 27.9902948 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Finished all waypoints!
+Turtlebot activated wait 1 times
+Average CPU utilization = 53.78%
+Average x localization error: 0.0010163782739440437
+Average y localization error: 0.00021080508874829422
+Final distance from goal: 0.2509568528053303 meters
+Total change in yaw:  387.921 degrees
+Change in yaw per second: 13.859 deg/s
+
+secure36500-38000-3
+Navigation time: 1.7025421 seconds
+Control loop missed desired rate 2 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 84.82%
+Average x localization error: 0.0016175300791370366
+Average y localization error: 0.00021259517881623845
+Final distance from goal: 2.3269695074474956 meters
+Total change in yaw:  94.538 degrees
+Change in yaw per second: 55.528 deg/s
+secure38500-40000
+Navigation time: 63.7440478 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 81.52%
+Average x localization error: 0.001817561587632456
+Average y localization error: 0.0003154711724381507
+Final distance from goal: 2.3158786112778205 meters
+Total change in yaw:  1364.671 degrees
+Change in yaw per second: 21.409 deg/s
+
+secure38500-40000-2
+Navigation time: 61.6332001 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 86.32%
+Average x localization error: 0.00221705854631034
+Average y localization error: 0.00018643969911432456
+Final distance from goal: 2.5620104867454896 meters
+Total change in yaw:  2798.555 degrees
+Change in yaw per second: 45.407 deg/s
+
+secure38500-40000-3
+Navigation time: 68.721115 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 85.60%
+Average x localization error: 0.0016223352552663642
+Average y localization error: 0.0002690927640167452
+Final distance from goal: 2.2120657316371344 meters
+Total change in yaw:  1343.758 degrees
+Change in yaw per second: 19.554 deg/s
+
+secure38500-40000-4
+Navigation time: 58.8822862 seconds
+Control loop missed desired rate 0 times
+Completed navigation? Dnf
+Turtlebot activated wait 1 times
+Average CPU utilization = 87.39%
+Average x localization error: 0.0018572543143729684
+Average y localization error: 0.00010673302693586193
+Final distance from goal: 2.289374947099017 meters
+Total change in yaw:  1437.494 degrees
+Change in yaw per second: 24.413 deg/s
+
