@@ -1,7 +1,7 @@
 #!/bin/bash
-#run record_waypoints many times with varied particle count 
-#$1 is upper bound for particle count loop 
-#$2 is number of experiments to run for each configuration
+#run record_waypoints many times with varied particle count both without and with security enabled
+#arg $1 is upper bound for particle count loop 
+#arg $2 is number of experiments to run for each configuration
 min_particles=500
 max_particles=2000
 i=1
