@@ -22,11 +22,8 @@ RUN echo "export TURTLEBOT3_MODEL=\"burger\"" >> /ros_ws/install/setup.bash \
  && echo "export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp" >> /ros_ws/install/setup.bash
 
 #add executable permission to shell scripts
-RUN chmod +x /performance/scripts/follow-waypoints.sh \
- && chmod +x /performance/scripts/top-cpu-summary.sh \
- && chmod +x /performance/scripts/initial-pose.sh \
- && chmod +x /performance/scripts/sros2.sh \
- && chmod +x /performance/scripts/record_waypoints.sh 
+RUN chmod +x /performance/scripts/*.sh \
+ && mkdir /performance/simulations
 
 
       
