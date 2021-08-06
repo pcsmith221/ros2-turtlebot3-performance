@@ -21,7 +21,7 @@ RUN echo "export TURTLEBOT3_MODEL=\"burger\"" >> /ros_ws/install/setup.bash \
  && echo "export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp" >> /ros_ws/install/setup.bash
 
 #add executable permission to shell scripts and create simulations directory to store log files for each run
-RUN chmod +x /performance/scripts/*.sh
+RUN chmod +x /performance/scripts/*.sh \
  && mkdir /performance/simulations 
 
 
