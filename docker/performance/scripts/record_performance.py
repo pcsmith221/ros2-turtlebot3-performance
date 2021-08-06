@@ -1,3 +1,7 @@
+#Author: Paul Smith
+#Date: 8-6-21
+#This program parses log files recoded during a given simulation and outputs the recorded perforamnce data to a single text file.
+
 from scipy import interpolate
 from math import sqrt
 import numpy as np
@@ -7,7 +11,7 @@ import re
 import sys
 
 def NavTimes(rosoutLogFileLocation):
-    """Display and log total navigation time of turtlebot as well as any control loop missed desired rate messages"""
+    """Return dictionary with total navigation time of turtlebot and count messages indicative of performance"""
     log = open(rosoutLogFileLocation, "r")
     lines = log.readlines()
 
@@ -22,7 +26,7 @@ def NavTimes(rosoutLogFileLocation):
     waitMessage = "Activating wait"
 
     navEndTimestamp = 0
-    completedAllWaypoints = "Dnf"
+    completedAllWaypoints = "Dnf" #short for did not finish
     controlLoopMissedCounter = 0
     waitCounter = 0
     for line in lines:
@@ -50,7 +54,7 @@ def NavTimes(rosoutLogFileLocation):
     log.close()
 
     navDict = {}    
-    navDict["navTime"] = navTime / 1000000000
+    navDict["navTime"] = navTime / 1000000000 #convert from nanoseconds to seconds
     navDict["completedAllWaypoints"] = completedAllWaypoints
     navDict["controlLoopMissedCounter"] = controlLoopMissedCounter
     navDict["waitCounter"] = waitCounter
@@ -106,9 +110,6 @@ def AverageCpuUtilization(topLogLocation):
     topLog = f.read()
     f.close()
     
-    #Note that Macbook Pro in use has 6 cpus
-    #example line
-    #18:44:47 - %Cpu(s): 59.8 us,  8.0 sy,  0.0 ni, 32.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
     cpuId = re.findall("(\d+\.\d+)\sid,", topLog)
     
     total = 0
@@ -119,7 +120,7 @@ def AverageCpuUtilization(topLogLocation):
     return totalCpuUtilization
 
 def InterpolateGazebo(odomDf, gazeboXInterpolationFunction, gazeboYInterpolationFunction):
-    
+    """Use scipy interpolation functions to interpolate the gazebo poses using the recorded /odom timestamps"""
     interpolatableOdomIndices = []
     for odomIndex in odomDf.index:
         try:
@@ -137,12 +138,14 @@ def InterpolateGazebo(odomDf, gazeboXInterpolationFunction, gazeboYInterpolation
     return interpolatedGazeboDf
 
 def CalculateDistanceFromGoal(tfLogLocation, turtlebotPosesDf, goalCoordinate):
-    """Return tuple of x and y distance from goal"""
+    """T"""
     f = open(tfLogLocation, "r")
     tfLog = f.read()
 
     f.close()
     
+    #The gazebo/odom logs are on a different map frame than /map, so we must find how to transform the two by parsing /tf
+    #We're only interested in the final transform, so parsing every transform into a DataFrame only to look at the last index is probably an inefficient solution, but the best I could come up with. 
     mapToOdomTransformations = re.findall("child_frame_id='odom',\stransform=geometry_msgs\.msg\.Transform\(translation=geometry_msgs\.msg\.Vector3\(x=(-?\d+\.\w*-?\d*),\sy=(-?\d+\.\w*-?\d*),\sz=(-?\d+\.\w*-?\d*)\)", tfLog)
     mapTransformsDf = pd.DataFrame(data=mapToOdomTransformations, columns=['x','y','z'], dtype=np.float64)
     
@@ -166,15 +169,19 @@ def CalculateTotalChangeInYaw(gazeboPoseDf):
 
 def LogExperimentData(logDir, outputFile, header, goal):
     """Appends experiment data to a file"""
+    
+    #assigning log file locations to variables
     rosoutLog = logDir + "rosout_log.txt"
     gazeboLog = logDir + "gazebo_log.txt"
     odomLog = logDir + "odom_log.txt"
     topLog = logDir + "top-cpu-summary.txt"
     tfLog = logDir + "tf_log.txt"
     
+    #parse /odom and gazebo logs
     odomPoseDf = ParseOdomLog(odomLog)
     gazeboPoseDf = ParseGazeboLog(gazeboLog, len(str(odomPoseDf.index[0])))
     
+    #interpolate gazebo poses at /odom timestamps using scipy interpolation function so we can easily find the differences between the two plots 
     gazeboXInterpolationFunction = interpolate.interp1d(gazeboPoseDf.index, gazeboPoseDf['x'])
     gazeboYInterpolationFunction = interpolate.interp1d(gazeboPoseDf.index, gazeboPoseDf['y'])
     
@@ -182,7 +189,8 @@ def LogExperimentData(logDir, outputFile, header, goal):
 
     manhattanDistanceDf = abs(interpolatedGazeboDf - odomPoseDf)
     manhattanDistanceDf.dropna(inplace=True)
-
+    
+    #log recorded performance metrics
     log = open(outputFile, "a")
     log.write("\n{}\n".format(header))
     
