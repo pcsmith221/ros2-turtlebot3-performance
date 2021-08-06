@@ -1,3 +1,6 @@
+#This script deserializes the rosbag recording and outputs the logs to text files
+#BagFileParser() code found here: https://github.com/ros2/rosbag2/issues/473
+
 import sqlite3
 import sys
 from rosidl_runtime_py.utilities import get_message
@@ -41,10 +44,11 @@ if __name__ == "__main__":
     parser = BagFileParser(bag_file)
 
     outputDir = str(sys.argv[2])
-    #pass a string in the form /topic
+    
+    #topic parameter should be in the form "/topic" to work with parser
     def LogTopic(topic):
 
-        #shorten log file name to avoid conflict with forward slashes in certain topics
+        #create log file to output deserialized data to. Topic name may throw error if it contains any forward slashes. 
         log = open(outputDir + topic[1:12] + "_log.txt", "w")
 
         print("\nRecording messages from " + topic + "\n")
@@ -63,28 +67,8 @@ if __name__ == "__main__":
         print("Finished recording topic " + topic + "\n")
         log.close()
 
-
-    #LogTopic("/plan")
-    #LogTopic("/performance_metrics")
-    #LogTopic("/joint_states")
-    #LogTopic("/clock")
+    #Simply call LogTopic("/topic") for all topics recorded by rosbag
     LogTopic("/odom")
     LogTopic("/rosout")
-    #LogTopic("/robot_description")
-    #LogTopic("/scan")
-    #LogTopic("/imu")
-    #LogTopic("/local_costmap/voxel_grid")
-    #LogTopic("/local_costmap/costmap_raw")
-    #LogTopic("/particlecloud")
-    #LogTopic("/waypoints")
-    #LogTopic("/local_costmap/costmap")
     LogTopic("/tf")
-    #LogTopic("/received_global_plan")
-    #LogTopic("/tf_static")
-    #LogTopic("/transformed_global_plan")
-    #LogTopic("/marker")
-    #LogTopic("/global_costmap/costmap")
-    #LogTopic("/cmd_vel")
-    #LogTopic("/local_costmap/published_footprint")
-    #LogTopic("/evaluation")
-    #LogTopic("/local_plan")
+
