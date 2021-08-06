@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This script was found here: https://askubuntu.com/questions/923922/how-to-save-cpu-logs-or-gpu-usage-values 
 # NAME: ~/bin/cpu-top-summary
 # DATE: June 13, 2017
 # DESC: Call `top` command every second to obtain CPU(s) stats for
