@@ -1,9 +1,8 @@
 #!/bin/bash
-#default args should be 500 2000 unsecure
-#usage: performance.sh min_particle_count max_particle_count security
-#min_particle_count [0,?]
-#max_particle_count [0,?]
-#security [unsecure,secure]
+#default args are 500 2000 unsecure
+#arg $1: min_particle_count
+#arg $2: max_particle_count 
+#arg $3: security [unsecure,secure]
 
 if [ $3 = "secure" ]; then 
 	source /performance/scripts/sros2.sh 'true'
