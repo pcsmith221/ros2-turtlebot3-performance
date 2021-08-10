@@ -138,7 +138,7 @@ def InterpolateGazebo(odomDf, gazeboXInterpolationFunction, gazeboYInterpolation
     return interpolatedGazeboDf
 
 def CalculateDistanceFromGoal(tfLogLocation, turtlebotPosesDf, goalCoordinate):
-    """T"""
+    """Transforms the final /odom pose to the map frame to caluclate the Euclidean distance from a given goal."""
     f = open(tfLogLocation, "r")
     tfLog = f.read()
 
@@ -161,9 +161,6 @@ def CalculateTotalChangeInYaw(gazeboPoseDf):
     """Calculates the sum of the absolute change in rotation by the turtlebot.
     Using navTime calculated from rosout log instead of Gazebo indices due to 
     the gazebo log starting earlier and stopping later than the actual navigation"""
-    #derivative = gazeboPoseDf.yaw.diff().abs() / gazeboPoseDf.index.to_series().diff()
-    #derivative.dropna(inplace=True)
-    #return derivative.sum()
 
     return gazeboPoseDf.yaw.diff().abs().sum()
 
@@ -186,9 +183,10 @@ def LogExperimentData(logDir, outputFile, header, goal):
     gazeboYInterpolationFunction = interpolate.interp1d(gazeboPoseDf.index, gazeboPoseDf['y'])
     
     interpolatedGazeboDf = InterpolateGazebo(odomPoseDf, gazeboXInterpolationFunction, gazeboYInterpolationFunction)
-
-    manhattanDistanceDf = abs(interpolatedGazeboDf - odomPoseDf)
-    manhattanDistanceDf.dropna(inplace=True)
+    
+    #find the distance between each point in the interpolated gazebo poses and the odom poses
+    localizationErrorDf = abs(interpolatedGazeboDf - odomPoseDf)
+    localizationErrorDf.dropna(inplace=True)
     
     #log recorded performance metrics
     log = open(outputFile, "a")
@@ -203,10 +201,10 @@ def LogExperimentData(logDir, outputFile, header, goal):
     cpuAvg = AverageCpuUtilization(topLog)
     log.write("Average CPU utilization = %.2f%%\n" % (cpuAvg))
     
-    averageXError = manhattanDistanceDf['x'].mean()
+    averageXError = localizationErrorDf['x'].mean()
     log.write("Average x localization error: {}\n".format(averageXError))
 
-    averageYError = manhattanDistanceDf['y'].mean()
+    averageYError = localizationErrorDf['y'].mean()
     log.write("Average y localization error: {}\n".format(averageYError))
 
     distanceFromGoal = CalculateDistanceFromGoal(tfLog, odomPoseDf, goal)
