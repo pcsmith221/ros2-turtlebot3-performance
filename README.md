@@ -5,6 +5,7 @@ This repository investigates the research question: “Does enabling security co
 Download the repository and build the Dockerfile.
 
 ```
+cd path/to/ros2-turtlebot3-performance/docker
 docker build -t image_name .
 ```
 
